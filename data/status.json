@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-22T07:38:04Z",
+  "generated_utc": "2026-11-22T09:44:57Z",
   "buffer": {
     "count": 217,
     "target": 10,
@@ -8,8 +8,8 @@
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 216,
-    "approved": 1,
+    "drafted": 215,
+    "approved": 2,
     "posted": 124,
     "failed": 1
   },
@@ -6935,7 +6935,7 @@
     },
     {
       "id": "vk-0338",
-      "status": "drafted",
+      "status": "approved",
       "type": "guide",
       "query": "ПСЖ (Пари Сен Жермен) — история, трофеи, стадион и легенди на клуба",
       "keywords_or_terms": "псж, пари сен жермен, псж история, псж трофеи",
