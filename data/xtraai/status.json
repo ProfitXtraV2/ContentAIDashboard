@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-22T17:53:29Z",
+  "generated_utc": "2026-11-22T17:53:40Z",
   "buffer": {
     "count": 24,
     "target": 3,
@@ -8,8 +8,8 @@
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 22,
-    "approved": 2,
+    "drafted": 21,
+    "approved": 3,
     "posted": 2,
     "failed": 0
   },
@@ -132,7 +132,7 @@
     },
     {
       "id": "xa-0005",
-      "status": "drafted",
+      "status": "approved",
       "type": "new-page",
       "query": "/saveti/socialni-mrezhi-za-biznes/",
       "keywords_or_terms": "социални мрежи; социални мрежи в българия; кои са социалните мрежи",
