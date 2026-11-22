@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-22T11:40:46Z",
+  "generated_utc": "2026-11-22T12:07:00Z",
   "buffer": {
     "count": 26,
     "target": 3,
@@ -280,7 +280,7 @@
       "posted_date": "",
       "folder": "2026-11-22-optimizacia-za-ai",
       "pr": "#385",
-      "gemini": "pending",
+      "gemini": "human 100",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 48,
@@ -303,7 +303,7 @@
       "posted_date": "",
       "folder": "2026-11-22-lokalno-seo",
       "pr": "#398",
-      "gemini": "pending",
+      "gemini": "human 100",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 50,
@@ -326,7 +326,7 @@
       "posted_date": "",
       "folder": "2026-11-22-primeri-za-izkustven-intelekt",
       "pr": "#397",
-      "gemini": "pending",
+      "gemini": "human 100",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 45,
@@ -349,7 +349,7 @@
       "posted_date": "",
       "folder": "2026-11-22-kakvo-e-prompt",
       "pr": "#399",
-      "gemini": "pending",
+      "gemini": "human 100",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": null,
       "verify_flags": null,
@@ -368,7 +368,7 @@
       "posted_date": "",
       "folder": "2026-11-22-ai-agenti",
       "pr": "#396",
-      "gemini": "pending",
+      "gemini": "human 95",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": null,
       "verify_flags": null,
@@ -387,7 +387,7 @@
       "posted_date": "",
       "folder": "2026-11-22-chatgpt-na-balgarski",
       "pr": "#394",
-      "gemini": "pending",
+      "gemini": "human 100",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 100,
@@ -410,7 +410,7 @@
       "posted_date": "",
       "folder": "2026-11-22-kakvo-e-logo",
       "pr": "#387",
-      "gemini": "pending",
+      "gemini": "human 100",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 100,
@@ -433,7 +433,7 @@
       "posted_date": "",
       "folder": "2026-11-22-biznes-prezentacia",
       "pr": "#389",
-      "gemini": "pending",
+      "gemini": "human 100",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 100,
@@ -456,7 +456,7 @@
       "posted_date": "",
       "folder": "2026-11-22-kakvo-e-marketing",
       "pr": "#390",
-      "gemini": "pending",
+      "gemini": "human 100",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 96,
@@ -479,7 +479,7 @@
       "posted_date": "",
       "folder": "2026-11-22-kakvo-e-kpi",
       "pr": "#391",
-      "gemini": "pending",
+      "gemini": "human 100",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 95,
@@ -502,7 +502,7 @@
       "posted_date": "",
       "folder": "2026-11-22-faktura",
       "pr": "#393",
-      "gemini": "pending",
+      "gemini": "human 100",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 84,
@@ -525,7 +525,7 @@
       "posted_date": "",
       "folder": "2026-11-22-imeyl-adres-za-firmata",
       "pr": "#386",
-      "gemini": "pending",
+      "gemini": "human 100",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 85,
@@ -548,7 +548,7 @@
       "posted_date": "",
       "folder": "2026-11-22-kakvo-e-brand",
       "pr": "#388",
-      "gemini": "pending",
+      "gemini": "human 100",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 75,
@@ -571,7 +571,7 @@
       "posted_date": "",
       "folder": "2026-11-22-biznes-plan",
       "pr": "#392",
-      "gemini": "pending",
+      "gemini": "human 100",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 70,
@@ -594,7 +594,7 @@
       "posted_date": "",
       "folder": "2026-11-22-proforma-faktura",
       "pr": "#395",
-      "gemini": "pending",
+      "gemini": "human 100",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 65,
