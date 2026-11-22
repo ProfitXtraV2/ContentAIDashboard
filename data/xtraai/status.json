@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-22T09:19:12Z",
+  "generated_utc": "2026-11-22T09:51:43Z",
   "buffer": {
     "count": 0,
     "target": 3,
@@ -7,13 +7,129 @@
     "ok": false
   },
   "counts": {
-    "in-progress": 0,
+    "in-progress": 5,
     "drafted": 0,
     "approved": 0,
     "posted": 0,
     "failed": 0
   },
-  "rows": [],
+  "rows": [
+    {
+      "id": "xa-0001",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/kakvo-e-seo/",
+      "keywords_or_terms": "seo; seo значение; какво е seo; seo стратегия",
+      "volume": "2400",
+      "kd": "0",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-kakvo-e-seo",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 100,
+        "band": "Strong",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0002",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/ai-rezhim-google/",
+      "keywords_or_terms": "режим с ai; ai overview; google ai mode; ai режим",
+      "volume": "2000",
+      "kd": "2",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-ai-rezhim-google",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 99,
+        "band": "Strong",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0003",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/digitalen-marketing/",
+      "keywords_or_terms": "дигитален маркетинг; какво е дигитален маркетинг; онлайн маркетинг",
+      "volume": "1900",
+      "kd": "8",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-digitalen-marketing",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 97,
+        "band": "Strong",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0004",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/kakvo-e-domein/",
+      "keywords_or_terms": "домейн; какво е домейн; регистрация на домейн; избор на домейн",
+      "volume": "1100",
+      "kd": "9",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-kakvo-e-domein",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 91,
+        "band": "Strong",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0005",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/socialni-mrezhi-za-biznes/",
+      "keywords_or_terms": "социални мрежи; социални мрежи в българия; кои са социалните мрежи",
+      "volume": "1200",
+      "kd": "0",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-socialni-mrezhi-za-biznes",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 100,
+        "band": "Strong",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    }
+  ],
   "backlog": [
     {
       "priority": "1",
@@ -156,6 +272,114 @@
       "status": "open",
       "notes": "After `/`: same section ids, same facts.",
       "opportunity": null
+    },
+    {
+      "priority": "10",
+      "type": "new-page",
+      "query": "/saveti/kakvo-e-seo/",
+      "keywords_or_terms": "seo",
+      "volume": "2400",
+      "kd": "0",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article (owner's session 2026-11-22). Explains SEO for owners; links /seo-optimizacia/, /saveti/klyuchovi-dumi/, /diagnostika/.",
+      "opportunity": {
+        "score": 100,
+        "band": "Strong",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "11",
+      "type": "new-page",
+      "query": "/saveti/ai-rezhim-google/",
+      "keywords_or_terms": "режим с ai",
+      "volume": "2000",
+      "kd": "2",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article (owner's session 2026-11-22). Google AI Mode / AI Overviews and what a small business can do; facts only from Google's own help pages; links /seo-optimizacia/.",
+      "opportunity": {
+        "score": 99,
+        "band": "Strong",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "12",
+      "type": "new-page",
+      "query": "/saveti/digitalen-marketing/",
+      "keywords_or_terms": "дигитален маркетинг",
+      "volume": "1900",
+      "kd": "8",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article (owner's session 2026-11-22). Channels overview for a small business; links /reklama/, /socialni-mrezhi/, /seo-optimizacia/, /seo-statii/.",
+      "opportunity": {
+        "score": 97,
+        "band": "Strong",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "13",
+      "type": "new-page",
+      "query": "/saveti/kakvo-e-domein/",
+      "keywords_or_terms": "домейн",
+      "volume": "1100",
+      "kd": "9",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article (owner's session 2026-11-22). What a domain is, choosing and registering one; no registrar prices; links /izrabotka-na-sait/.",
+      "opportunity": {
+        "score": 91,
+        "band": "Strong",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "14",
+      "type": "new-page",
+      "query": "/saveti/socialni-mrezhi-za-biznes/",
+      "keywords_or_terms": "социални мрежи",
+      "volume": "1200",
+      "kd": "0",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article (owner's session 2026-11-22). Which network fits which business; no invented usage stats; links /socialni-mrezhi/, /reklama-vav-facebook/.",
+      "opportunity": {
+        "score": 100,
+        "band": "Strong",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "15",
+      "type": "new-page",
+      "query": "/izrabotka-na-logo/",
+      "keywords_or_terms": "лого",
+      "volume": "1800",
+      "kd": "0",
+      "intent": "commercial",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "blocked: owner decision",
+      "notes": "Only if logo design is a confirmed service.",
+      "opportunity": {
+        "score": 100,
+        "band": "Strong",
+        "winnable": true
+      }
     }
   ],
   "research": [],

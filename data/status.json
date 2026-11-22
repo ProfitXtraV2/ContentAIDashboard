@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-22T09:45:25Z",
+  "generated_utc": "2026-11-22T09:46:01Z",
   "buffer": {
     "count": 217,
     "target": 10,
@@ -8,8 +8,8 @@
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 213,
-    "approved": 4,
+    "drafted": 211,
+    "approved": 6,
     "posted": 124,
     "failed": 1
   },
@@ -6245,7 +6245,7 @@
     },
     {
       "id": "vk-0308",
-      "status": "drafted",
+      "status": "approved",
       "type": "guide",
       "query": "Нови казино игри 2026",
       "keywords_or_terms": "нови казино игри, нови казино игри 2026, нови игри казино, нови ротативки, нови казино игри безплатно",
@@ -6981,7 +6981,7 @@
     },
     {
       "id": "vk-0340",
-      "status": "drafted",
+      "status": "approved",
       "type": "guide",
       "query": "Локомотив София — история на клуба",
       "keywords_or_terms": "локомотив софия, локомотив софия история",
