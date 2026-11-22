@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-22T11:10:40Z",
+  "generated_utc": "2026-11-22T11:14:17Z",
   "buffer": {
     "count": 11,
     "target": 3,
@@ -7,7 +7,7 @@
     "ok": true
   },
   "counts": {
-    "in-progress": 5,
+    "in-progress": 15,
     "drafted": 11,
     "approved": 0,
     "posted": 0,
@@ -371,6 +371,236 @@
       "gemini": "",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": null,
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0017",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/chatgpt-na-balgarski/",
+      "keywords_or_terms": "чат gpt на български; chatgpt на български; изкуствен интелект на български",
+      "volume": "4600",
+      "kd": "0",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-chatgpt-na-balgarski",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 100,
+        "band": "Strong",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0018",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/kakvo-e-logo/",
+      "keywords_or_terms": "лого; какво е лого; добро лого",
+      "volume": "1800",
+      "kd": "0",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-kakvo-e-logo",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 100,
+        "band": "Strong",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0019",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/biznes-prezentacia/",
+      "keywords_or_terms": "презентация; как да направя презентация; ai за презентации",
+      "volume": "1400",
+      "kd": "0",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-biznes-prezentacia",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 100,
+        "band": "Strong",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0020",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/kakvo-e-marketing/",
+      "keywords_or_terms": "маркетинг; какво е маркетинг; маркетинг микс; маркетингова стратегия",
+      "volume": "1300",
+      "kd": "9",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-kakvo-e-marketing",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 96,
+        "band": "Strong",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0021",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/kakvo-e-kpi/",
+      "keywords_or_terms": "kpi; ключови показатели за ефективност",
+      "volume": "1100",
+      "kd": "0",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-kakvo-e-kpi",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 95,
+        "band": "Strong",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0022",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/faktura/",
+      "keywords_or_terms": "фактура; стокова разписка; кредитно известие",
+      "volume": "1000",
+      "kd": "15",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-faktura",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 84,
+        "band": "Strong",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0023",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/imeyl-adres-za-firmata/",
+      "keywords_or_terms": "имейл адрес; създаване на имейл адрес",
+      "volume": "900",
+      "kd": "0",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-imeyl-adres-za-firmata",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 85,
+        "band": "Strong",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0024",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/kakvo-e-brand/",
+      "keywords_or_terms": "бранд; брандинг; слоган",
+      "volume": "700",
+      "kd": "0",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-kakvo-e-brand",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 75,
+        "band": "Strong",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0025",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/biznes-plan/",
+      "keywords_or_terms": "бизнес план; бизнес план пример",
+      "volume": "600",
+      "kd": "0",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-biznes-plan",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 70,
+        "band": "Strong",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0026",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/proforma-faktura/",
+      "keywords_or_terms": "проформа фактура; проформа фактура образец",
+      "volume": "500",
+      "kd": "0",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-proforma-faktura",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 65,
+        "band": "Good",
+        "winnable": true
+      },
       "verify_flags": null,
       "verify_samples": []
     }
@@ -815,6 +1045,186 @@
       "status": "open",
       "notes": "Article (owner idea: reduce time spent with AI; NO '50%' or other invented figures). What an AI agent is vs a chatbot, tasks it can take over in a small business (bookings, offers, follow-ups, documents) within canon, where a person must approve, how to start; links /avtomatizacii/, /ai-asistent/.",
       "opportunity": null
+    },
+    {
+      "priority": "27",
+      "type": "new-page",
+      "query": "/saveti/chatgpt-na-balgarski/",
+      "keywords_or_terms": "чат gpt на български",
+      "volume": "4600",
+      "kd": "0",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article. How to use ChatGPT in Bulgarian for everyday business tasks; what to check; data safety in general; no vendor promises; must not take какво е изкуствен интелект / промпт.",
+      "opportunity": {
+        "score": 100,
+        "band": "Strong",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "28",
+      "type": "new-page",
+      "query": "/saveti/kakvo-e-logo/",
+      "keywords_or_terms": "лого",
+      "volume": "1800",
+      "kd": "0",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article. What a logo is, types, what makes it work (simple, legible small, works in one colour, fits the brand), files/formats to get from a designer; links creatives on /socialni-mrezhi/ only as canon allows.",
+      "opportunity": {
+        "score": 100,
+        "band": "Strong",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "29",
+      "type": "new-page",
+      "query": "/saveti/biznes-prezentacia/",
+      "keywords_or_terms": "презентация",
+      "volume": "1400",
+      "kd": "0",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article. Structure of a business presentation (offer to a client, partner, team), slide rules, how AI can draft it, what to check; no tool rankings.",
+      "opportunity": {
+        "score": 100,
+        "band": "Strong",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "30",
+      "type": "new-page",
+      "query": "/saveti/kakvo-e-marketing/",
+      "keywords_or_terms": "маркетинг",
+      "volume": "1300",
+      "kd": "9",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article. Marketing basics for an owner (audience, offer, price, channels, message, measuring), a simple monthly plan; links /reklama/, /socialni-mrezhi/.",
+      "opportunity": {
+        "score": 96,
+        "band": "Strong",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "31",
+      "type": "new-page",
+      "query": "/saveti/kakvo-e-kpi/",
+      "keywords_or_terms": "kpi",
+      "volume": "1100",
+      "kd": "0",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article. What KPIs are, examples per business type (enquiries, bookings, average order, repeat customers, response time), how to track them simply; canon: dashboards; no invented benchmarks.",
+      "opportunity": {
+        "score": 95,
+        "band": "Strong",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "32",
+      "type": "new-page",
+      "query": "/saveti/faktura/",
+      "keywords_or_terms": "фактура",
+      "volume": "1000",
+      "kd": "15",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article. Required invoice contents ONLY as sourced from the Bulgarian VAT Act/NRA fetched today; related documents (стокова разписка, кредитно известие) in general; automating invoices (canon); recommend an accountant for specifics.",
+      "opportunity": {
+        "score": 84,
+        "band": "Strong",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "33",
+      "type": "new-page",
+      "query": "/saveti/imeyl-adres-za-firmata/",
+      "keywords_or_terms": "имейл адрес",
+      "volume": "900",
+      "kd": "0",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article. Free mailbox vs address on the company domain, how a domain email works in general, choosing names (office@, имена), security basics (2-step verification) only as sourced; no provider rankings or prices; links /izrabotka-na-sait/.",
+      "opportunity": {
+        "score": 85,
+        "band": "Strong",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "34",
+      "type": "new-page",
+      "query": "/saveti/kakvo-e-brand/",
+      "keywords_or_terms": "бранд",
+      "volume": "700",
+      "kd": "0",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article. Brand vs logo vs slogan, the elements of a small-business brand (name, promise, voice, colours, visuals), consistency across site/profiles/posts; links /socialni-mrezhi/.",
+      "opportunity": {
+        "score": 75,
+        "band": "Strong",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "35",
+      "type": "new-page",
+      "query": "/saveti/biznes-plan/",
+      "keywords_or_terms": "бизнес план",
+      "volume": "600",
+      "kd": "0",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article. Sections of a business plan, a short hypothetical example outline (labelled), how AI can help draft and what to verify; no financial promises; CTA to diagnosis.",
+      "opportunity": {
+        "score": 70,
+        "band": "Strong",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "36",
+      "type": "new-page",
+      "query": "/saveti/proforma-faktura/",
+      "keywords_or_terms": "проформа фактура",
+      "volume": "500",
+      "kd": "0",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article. What a proforma is and is not (not a tax document) ONLY as sourced from NRA/official or the VAT Act fetched today; when it is used (advance payment, offer); automating offers/proformas (canon: automatic offers form → PDF).",
+      "opportunity": {
+        "score": 65,
+        "band": "Good",
+        "winnable": true
+      }
     }
   ],
   "research": [],
