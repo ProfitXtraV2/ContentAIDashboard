@@ -1,14 +1,14 @@
 {
-  "generated_utc": "2026-11-22T11:30:26Z",
+  "generated_utc": "2026-11-22T11:40:46Z",
   "buffer": {
-    "count": 22,
+    "count": 26,
     "target": 3,
     "deficit": 0,
     "ok": true
   },
   "counts": {
-    "in-progress": 4,
-    "drafted": 22,
+    "in-progress": 0,
+    "drafted": 26,
     "approved": 0,
     "posted": 0,
     "failed": 0
@@ -292,7 +292,7 @@
     },
     {
       "id": "xa-0013",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/lokalno-seo/",
       "keywords_or_terms": "локално seo; локално seo българия",
@@ -302,8 +302,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-lokalno-seo",
-      "pr": "",
-      "gemini": "",
+      "pr": "#398",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 50,
@@ -315,7 +315,7 @@
     },
     {
       "id": "xa-0014",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/primeri-za-izkustven-intelekt/",
       "keywords_or_terms": "примери за изкуствен интелект; изкуствен интелект в малкия бизнес",
@@ -325,8 +325,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-primeri-za-izkustven-intelekt",
-      "pr": "",
-      "gemini": "",
+      "pr": "#397",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 45,
@@ -338,7 +338,7 @@
     },
     {
       "id": "xa-0015",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/kakvo-e-prompt/",
       "keywords_or_terms": "промпт; промпт инженеринг; как да пиша промпт",
@@ -348,8 +348,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-kakvo-e-prompt",
-      "pr": "",
-      "gemini": "",
+      "pr": "#399",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": null,
       "verify_flags": null,
@@ -357,7 +357,7 @@
     },
     {
       "id": "xa-0016",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/ai-agenti/",
       "keywords_or_terms": "ai агенти; ai агент",
@@ -367,8 +367,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-ai-agenti",
-      "pr": "",
-      "gemini": "",
+      "pr": "#396",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": null,
       "verify_flags": null,
