@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-22T10:28:32Z",
+  "generated_utc": "2026-11-22T10:30:47Z",
   "buffer": {
     "count": 5,
     "target": 3,
@@ -7,7 +7,7 @@
     "ok": true
   },
   "counts": {
-    "in-progress": 0,
+    "in-progress": 6,
     "drafted": 5,
     "approved": 0,
     "posted": 0,
@@ -124,6 +124,144 @@
       "opportunity": {
         "score": 100,
         "band": "Strong",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0006",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/kakvo-e-chatbot/",
+      "keywords_or_terms": "чатбот; чатбот значение; какво е чатбот; ai чатбот за сайт",
+      "volume": "400",
+      "kd": "0",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-kakvo-e-chatbot",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 60,
+        "band": "Good",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0007",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/kakvo-e-izkustven-intelekt/",
+      "keywords_or_terms": "какво е изкуствен интелект; как да използваме изкуствен интелект; изкуствен интелект в бизнеса",
+      "volume": "350",
+      "kd": "3",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-kakvo-e-izkustven-intelekt",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 56,
+        "band": "Good",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0008",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/crm-sistema/",
+      "keywords_or_terms": "crm система; crm системи; какво е crm; crm за малък бизнес",
+      "volume": "450",
+      "kd": "0",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-crm-sistema",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 62,
+        "band": "Good",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0009",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/obsluzhvane-na-klienti/",
+      "keywords_or_terms": "обслужване на клиенти; обслужване на клиенти в малкия бизнес; бърз отговор на запитвания",
+      "volume": "150",
+      "kd": "0",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-obsluzhvane-na-klienti",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 48,
+        "band": "Good",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0010",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/kakvo-e-uebsait/",
+      "keywords_or_terms": "уебсайт; уеб сайт; какво е уеб сайт",
+      "volume": "450",
+      "kd": "0",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-kakvo-e-uebsait",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 62,
+        "band": "Good",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0011",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/kak-da-napravite-onlain-magazin/",
+      "keywords_or_terms": "как да си направя онлайн магазин; как се прави онлайн магазин",
+      "volume": "150",
+      "kd": "0",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-kak-da-napravite-onlain-magazin",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 48,
+        "band": "Good",
         "winnable": true
       },
       "verify_flags": null,
@@ -378,6 +516,114 @@
       "opportunity": {
         "score": 100,
         "band": "Strong",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "16",
+      "type": "new-page",
+      "query": "/saveti/kakvo-e-chatbot/",
+      "keywords_or_terms": "чатбот",
+      "volume": "400",
+      "kd": "0",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article. What a chatbot is, rule-based vs AI, where it helps a small business, limits; links /ai-asistent/, /avtomatizacii/.",
+      "opportunity": {
+        "score": 60,
+        "band": "Good",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "17",
+      "type": "new-page",
+      "query": "/saveti/kakvo-e-izkustven-intelekt/",
+      "keywords_or_terms": "какво е изкуствен интелект",
+      "volume": "350",
+      "kd": "3",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article. Plain explanation + practical small-business uses (texts, replies, booking, documents); limits and checking by a person; links /, /ai-asistent/, /avtomatizacii/.",
+      "opportunity": {
+        "score": 56,
+        "band": "Good",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "18",
+      "type": "new-page",
+      "query": "/saveti/crm-sistema/",
+      "keywords_or_terms": "crm система",
+      "volume": "450",
+      "kd": "0",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article. What a CRM does, signs a small business needs one, what to look for; Xtra AI only connects existing systems and automates (canon); no vendor recommendations or prices; links /avtomatizacii/.",
+      "opportunity": {
+        "score": 62,
+        "band": "Good",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "19",
+      "type": "new-page",
+      "query": "/saveti/obsluzhvane-na-klienti/",
+      "keywords_or_terms": "обслужване на клиенти",
+      "volume": "150",
+      "kd": "0",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article. Replying fast, one inbox, templates, booking, reminders, follow-up, reviews; where an AI assistant/automation helps; links /ai-asistent/, /avtomatizacii/, /saveti/google-biznes-profil/.",
+      "opportunity": {
+        "score": 48,
+        "band": "Good",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "20",
+      "type": "new-page",
+      "query": "/saveti/kakvo-e-uebsait/",
+      "keywords_or_terms": "уебсайт",
+      "volume": "450",
+      "kd": "0",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article. What a website is (vs domain, hosting, profiles on social networks), the must-have pages and elements for a small business; links /izrabotka-na-sait/, /saveti/kakvo-e-domein/.",
+      "opportunity": {
+        "score": 62,
+        "band": "Good",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "21",
+      "type": "new-page",
+      "query": "/saveti/kak-da-napravite-onlain-magazin/",
+      "keywords_or_terms": "как да си направя онлайн магазин",
+      "volume": "150",
+      "kd": "0",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article. Steps from idea to launch (products, platform choice in general, payments, delivery, legal basics only if sourced from NRA/official), no platform prices; links /izrabotka-na-onlain-magazin/, /saveti/kakvo-e-domein/.",
+      "opportunity": {
+        "score": 48,
+        "band": "Good",
         "winnable": true
       }
     }
