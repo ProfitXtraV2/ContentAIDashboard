@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-22T17:55:27Z",
+  "generated_utc": "2026-11-22T17:55:52Z",
   "buffer": {
     "count": 24,
     "target": 3,
@@ -8,8 +8,8 @@
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 19,
-    "approved": 5,
+    "drafted": 17,
+    "approved": 7,
     "posted": 2,
     "failed": 0
   },
@@ -458,7 +458,7 @@
     },
     {
       "id": "xa-0019",
-      "status": "drafted",
+      "status": "approved",
       "type": "new-page",
       "query": "/saveti/biznes-prezentacia/",
       "keywords_or_terms": "презентация; как да направя презентация; ai за презентации",
@@ -485,7 +485,7 @@
     },
     {
       "id": "xa-0020",
-      "status": "drafted",
+      "status": "approved",
       "type": "new-page",
       "query": "/saveti/kakvo-e-marketing/",
       "keywords_or_terms": "маркетинг; какво е маркетинг; маркетинг микс; маркетингова стратегия",
@@ -503,7 +503,7 @@
         "band": "Strong",
         "winnable": true
       },
-      "verify_flags": null,
+      "verify_flags": 0,
       "verify_samples": []
     },
     {
