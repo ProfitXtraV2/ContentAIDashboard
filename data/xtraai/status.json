@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-22T17:50:27Z",
+  "generated_utc": "2026-11-22T17:53:29Z",
   "buffer": {
     "count": 24,
     "target": 3,
@@ -8,8 +8,8 @@
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 24,
-    "approved": 0,
+    "drafted": 22,
+    "approved": 2,
     "posted": 2,
     "failed": 0
   },
@@ -74,7 +74,7 @@
     },
     {
       "id": "xa-0003",
-      "status": "drafted",
+      "status": "approved",
       "type": "new-page",
       "query": "/saveti/digitalen-marketing/",
       "keywords_or_terms": "дигитален маркетинг; какво е дигитален маркетинг; онлайн маркетинг",
@@ -92,12 +92,18 @@
         "band": "Strong",
         "winnable": true
       },
-      "verify_flags": null,
-      "verify_samples": []
+      "verify_flags": 9,
+      "verify_samples": [
+        "[VERIFY: Google Business Profile lets a business manage how it shows up on Maps and Search at no charge — https://support.google.com/business/answer/3038063]",
+        "[VERIFY: some changes take effect in a few hours, others several months; wait a few weeks to assess — https://developers.google.com/search/docs/fundamentals/seo",
+        "[VERIFY: a daily budget is chosen per campaign based on advertising goals and can be changed at any time — https://support.google.com/google-ads/answer/2375420]",
+        "[VERIFY: some changes take effect in a few hours, others several months; wait a few weeks to assess — https://developers.google.com/search/docs/fundamentals/seo",
+        "[VERIFY: a daily budget is chosen per campaign based on advertising goals and can be changed at any time — https://support.google.com/google-ads/answer/2375420]"
+      ]
     },
     {
       "id": "xa-0004",
-      "status": "drafted",
+      "status": "approved",
       "type": "new-page",
       "query": "/saveti/kakvo-e-domein/",
       "keywords_or_terms": "домейн; какво е домейн; регистрация на домейн; избор на домейн",
@@ -115,8 +121,14 @@
         "band": "Strong",
         "winnable": true
       },
-      "verify_flags": null,
-      "verify_samples": []
+      "verify_flags": 7,
+      "verify_samples": [
+        "[VERIFY: .bg имената се образуват от латински букви, букви на кирилица, цифри и знака минус; първият и последният символ са буква или цифра; дължина от 3 до 63 ",
+        "[VERIFY: регистрантът е клиентът, на чието име е регистриран домейнът; всеки домейн се регистрира на един регистрант; при регистрация се изисква идентификация н",
+        "[VERIFY: при неплатена в срок годишна такса за поддръжка регистрацията се прекратява и домейнът се освобождава за регистрация от последващи регистранти (т. 9.3,",
+        "[VERIFY]",
+        "[VERIFY]"
+      ]
     },
     {
       "id": "xa-0005",
@@ -138,8 +150,14 @@
         "band": "Strong",
         "winnable": true
       },
-      "verify_flags": null,
-      "verify_samples": []
+      "verify_flags": 9,
+      "verify_samples": [
+        "[VERIFY: 71.1% of individuals aged 16-74 in Bulgaria participated in social networks in 2025 — https://www.nsi.bg/en/press-release/ict-usage-in-households-and-b",
+        "[VERIFY: E_SM1_ANY, enterprises 10+ persons employed, 2025: BG 41.51%, EU27 63.57% — https://ec.europa.eu/eurostat/databrowser/view/isoc_cismt/default/table?lan",
+        "[VERIFY: \"With a Business Profile on Google, you can manage how your business shows up on Maps and Search at no charge.\" — https://support.google.com/business/a",
+        "[VERIFY: at no charge — https://support.google.com/business/answer/3038063?hl=en]",
+        "[VERIFY: 71.1% of individuals aged 16-74 in Bulgaria participated in social networks in 2025 — https://www.nsi.bg/en/press-release/ict-usage-in-households-and-b"
+      ]
     },
     {
       "id": "xa-0006",
