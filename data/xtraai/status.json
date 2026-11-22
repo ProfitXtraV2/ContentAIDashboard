@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-22T17:53:40Z",
+  "generated_utc": "2026-11-22T17:55:27Z",
   "buffer": {
     "count": 24,
     "target": 3,
@@ -8,8 +8,8 @@
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 21,
-    "approved": 3,
+    "drafted": 19,
+    "approved": 5,
     "posted": 2,
     "failed": 0
   },
@@ -406,7 +406,7 @@
     },
     {
       "id": "xa-0017",
-      "status": "drafted",
+      "status": "approved",
       "type": "new-page",
       "query": "/saveti/chatgpt-na-balgarski/",
       "keywords_or_terms": "чат gpt на български; chatgpt на български; изкуствен интелект на български",
@@ -424,12 +424,18 @@
         "band": "Strong",
         "winnable": true
       },
-      "verify_flags": null,
-      "verify_samples": []
+      "verify_flags": 7,
+      "verify_samples": [
+        "[VERIFY: Bulgarian supported — https://help.openai.com/en/articles/8357869-how-to-change-your-language-setting-in-chatgpt]",
+        "[VERIFY: web, iOS, Android; chatgpt.com — https://openai.com/chatgpt/pricing/]",
+        "[VERIFY: plans — https://openai.com/chatgpt/pricing/]",
+        "[VERIFY: training + opt-out + business default — https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance]",
+        "[VERIFY F1]"
+      ]
     },
     {
       "id": "xa-0018",
-      "status": "drafted",
+      "status": "approved",
       "type": "new-page",
       "query": "/saveti/kakvo-e-logo/",
       "keywords_or_terms": "лого; какво е лого; добро лого",
@@ -447,7 +453,7 @@
         "band": "Strong",
         "winnable": true
       },
-      "verify_flags": null,
+      "verify_flags": 0,
       "verify_samples": []
     },
     {
@@ -470,8 +476,12 @@
         "band": "Strong",
         "winnable": true
       },
-      "verify_flags": null,
-      "verify_samples": []
+      "verify_flags": 3,
+      "verify_samples": [
+        "[VERIFY: Copilot creates a presentation from a description or a Word document — https://support.microsoft.com/en-us/office/create-a-presentation-with-copilot-in",
+        "[VERIFY: Gemini in Slides generates new slides, writes or rewrites content, generates images — https://support.google.com/docs/answer/14207419?hl=en]",
+        "[VERIFY: Gemini may suggest inaccurate or inappropriate information — https://support.google.com/docs/answer/14207419?hl=en]"
+      ]
     },
     {
       "id": "xa-0020",
