@@ -1,0 +1,31 @@
+{
+  "state": "idle",
+  "run_started_utc": "2026-11-22T07:14:00Z",
+  "run_finished_utc": "2026-11-22T07:38:24Z",
+  "articles_written": 1,
+  "prs_opened": [
+    370
+  ],
+  "run_url": "https://claude.ai/code/session_01AwuYFTsUuFKCnKnBN1KJH1",
+  "note": "daily run 2026-11-22 — throttled MAX_PER_RUN=1. Reconcile clean on entry (0 in-progress/HANDOFF/CLAIMED). Monthly SEO review NOT due (marker 2026-11 == current). WROTE 1 NEW guide vk-0342 „Пирин Благоевград — история на клуба“ (PR #370) — top open P0 backlog, пирин благоевград 3100/kd5 informational WIN, single best distinct topic after dedup+research. Evergreen HISTORICAL club profile (guides-only: 0 operator/НАП/affiliate; 0 current standings/results/fixtures/transfers/odds/predictions). Facts cross-verified BG+EN Wikipedia. Dedup vs queue(0 pirin)+live sitemap(0 pirin)+bank = clean. GEMINI BACK ONLINE (402 depletion 2026-11-10..21 cleared): Step-7 TEXT keep-best HL 10 (AI90) -> humaniser pass 1 -> HL 85 (human 85) PASS; gemini=human 85. Step-8 img:1 infographic 100/100 PASS 0-integrity first pass. Gate 95 PASS 0-crit. ~718 words, 0 surviving flags. AHREFS ONLINE (142,115 units remaining, reset 2026-12-15); light discovery 3 seeds -> 0 new candidates (ротативки cluster covered/Pillar; market saturated, no padding). Board: queue vk-0342 drafted (PR #370, img:1 100); backlog Пирин row open->written; research bank +run-note (0 added); dashboard rebuilt buffer 217/10; content refs fetched; FEED REFRESH HELD for vk-0280 elektronna-ruletka (approved source bio regressed to non-compliant „теста“/own-budget on its content branch — MAJOR brand-gate violation; NOT propagated to keep live feed compliant; HUMAN must fix the approved source). PR #370 open for owner review (subscribed to PR activity). NO flags resolved, nothing posted/merged/fabricated. Clean finish.",
+  "progress": {
+    "phase": "done",
+    "article_index": 1,
+    "article_total": 1,
+    "article_slug": "2026-11-22-pirin-blagoevgrad",
+    "stages": [
+      "Synthesis",
+      "Outline",
+      "Author",
+      "Humaniser",
+      "SEO",
+      "Brand Gate",
+      "Light re-check",
+      "Images",
+      "Verification",
+      "PR"
+    ],
+    "stage_index": null,
+    "stage": null
+  }
+}

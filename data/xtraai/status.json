@@ -1,0 +1,176 @@
+{
+  "generated_utc": "2026-11-22T09:19:12Z",
+  "buffer": {
+    "count": 0,
+    "target": 3,
+    "deficit": 3,
+    "ok": false
+  },
+  "counts": {
+    "in-progress": 0,
+    "drafted": 0,
+    "approved": 0,
+    "posted": 0,
+    "failed": 0
+  },
+  "rows": [],
+  "backlog": [
+    {
+      "priority": "1",
+      "type": "page-rewrite",
+      "query": "/",
+      "keywords_or_terms": "ai автоматизация",
+      "volume": "40",
+      "kd": "",
+      "intent": "commercial",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-15",
+      "status": "open",
+      "notes": "Home. „Вие“; align service cards to the 6 service pages (link each); link /diagnostika/ from #losses and the hero; drop the ads section (done); FAQ allowed.",
+      "opportunity": null
+    },
+    {
+      "priority": "2",
+      "type": "new-page",
+      "query": "/diagnostika/",
+      "keywords_or_terms": "безплатна диагностика за бизнеса",
+      "volume": "",
+      "kd": "",
+      "intent": "commercial",
+      "checked": "ahrefs",
+      "ahrefs_note": "no measurable term",
+      "status": "open",
+      "notes": "Checker page: rewrite the owner's 29 problems/fixes (docs/content-sources/skriti-problemi.json) to „Вие“; hours stay labelled estimates. Output both the page sections and a `checker` block (see brief).",
+      "opportunity": null
+    },
+    {
+      "priority": "3",
+      "type": "new-page",
+      "query": "/seo-statii/",
+      "keywords_or_terms": "seo копирайтинг",
+      "volume": "100",
+      "kd": "0",
+      "intent": "commercial",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-15",
+      "status": "open",
+      "notes": "Content tool + copywriting.",
+      "opportunity": {
+        "score": 45,
+        "band": "Good",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "4",
+      "type": "new-page",
+      "query": "/reklama/",
+      "keywords_or_terms": "реклама в гугъл",
+      "volume": "400",
+      "kd": "0",
+      "intent": "commercial",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-15",
+      "status": "open",
+      "notes": "Marketing specialist: Google + Facebook/Instagram ads.",
+      "opportunity": {
+        "score": 60,
+        "band": "Good",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "5",
+      "type": "new-page",
+      "query": "/seo-optimizacia/",
+      "keywords_or_terms": "seo оптимизация",
+      "volume": "600",
+      "kd": "29",
+      "intent": "commercial",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-15",
+      "status": "open",
+      "notes": "Full SEO: technical, on-page, links.",
+      "opportunity": {
+        "score": 58,
+        "band": "Good",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "6",
+      "type": "new-page",
+      "query": "/ai-asistent/",
+      "keywords_or_terms": "ai асистент",
+      "volume": "150",
+      "kd": "",
+      "intent": "commercial",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-15",
+      "status": "open",
+      "notes": "AI assistants/chatbots.",
+      "opportunity": null
+    },
+    {
+      "priority": "7",
+      "type": "new-page",
+      "query": "/avtomatizacii/",
+      "keywords_or_terms": "автоматизация на бизнес процеси",
+      "volume": "10",
+      "kd": "",
+      "intent": "commercial",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-15",
+      "status": "open",
+      "notes": "Booking, offers, documents, systems, dashboards.",
+      "opportunity": null
+    },
+    {
+      "priority": "8",
+      "type": "new-page",
+      "query": "/socialni-mrezhi/",
+      "keywords_or_terms": "маркетинг в социалните мрежи",
+      "volume": "150",
+      "kd": "0",
+      "intent": "commercial",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-15",
+      "status": "open",
+      "notes": "Content tool social posts + monthly creatives.",
+      "opportunity": {
+        "score": 48,
+        "band": "Good",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "9",
+      "type": "page-rewrite",
+      "query": "/en/",
+      "keywords_or_terms": "ai automation for small business",
+      "volume": "",
+      "kd": "",
+      "intent": "commercial",
+      "checked": "none",
+      "ahrefs_note": "not measured",
+      "status": "open",
+      "notes": "After `/`: same section ids, same facts.",
+      "opportunity": null
+    }
+  ],
+  "research": [],
+  "articles_base_url": "https://github.com/ProfitXtraV2/AIContent/tree/main/XtraAI/articles/",
+  "meta": {
+    "brand": "Xtra AI",
+    "schedule": {
+      "note": "manual runs only — not scheduled"
+    },
+    "links": {
+      "repo": "https://github.com/ProfitXtraV2/AIContent",
+      "prs": "https://github.com/ProfitXtraV2/AIContent/pulls",
+      "site": "https://desislavamit.github.io/biz-grow/",
+      "backlog": "https://github.com/ProfitXtraV2/AIContent/blob/main/XtraAI/topic-backlog.md",
+      "queue": "https://github.com/ProfitXtraV2/AIContent/blob/main/XtraAI/content-queue.md"
+    }
+  }
+}
