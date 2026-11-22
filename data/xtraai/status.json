@@ -1,14 +1,14 @@
 {
-  "generated_utc": "2026-11-22T09:51:43Z",
+  "generated_utc": "2026-11-22T10:19:38Z",
   "buffer": {
-    "count": 0,
+    "count": 5,
     "target": 3,
-    "deficit": 3,
-    "ok": false
+    "deficit": 0,
+    "ok": true
   },
   "counts": {
-    "in-progress": 5,
-    "drafted": 0,
+    "in-progress": 0,
+    "drafted": 5,
     "approved": 0,
     "posted": 0,
     "failed": 0
@@ -16,7 +16,7 @@
   "rows": [
     {
       "id": "xa-0001",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/kakvo-e-seo/",
       "keywords_or_terms": "seo; seo значение; какво е seo; seo стратегия",
@@ -26,8 +26,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-kakvo-e-seo",
-      "pr": "",
-      "gemini": "",
+      "pr": "#373",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 100,
@@ -39,7 +39,7 @@
     },
     {
       "id": "xa-0002",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/ai-rezhim-google/",
       "keywords_or_terms": "режим с ai; ai overview; google ai mode; ai режим",
@@ -49,8 +49,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-ai-rezhim-google",
-      "pr": "",
-      "gemini": "",
+      "pr": "#377",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 99,
@@ -62,7 +62,7 @@
     },
     {
       "id": "xa-0003",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/digitalen-marketing/",
       "keywords_or_terms": "дигитален маркетинг; какво е дигитален маркетинг; онлайн маркетинг",
@@ -72,8 +72,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-digitalen-marketing",
-      "pr": "",
-      "gemini": "",
+      "pr": "#374",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 97,
@@ -85,7 +85,7 @@
     },
     {
       "id": "xa-0004",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/kakvo-e-domein/",
       "keywords_or_terms": "домейн; какво е домейн; регистрация на домейн; избор на домейн",
@@ -95,8 +95,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-kakvo-e-domein",
-      "pr": "",
-      "gemini": "",
+      "pr": "#375",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 91,
@@ -108,7 +108,7 @@
     },
     {
       "id": "xa-0005",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/socialni-mrezhi-za-biznes/",
       "keywords_or_terms": "социални мрежи; социални мрежи в българия; кои са социалните мрежи",
@@ -118,8 +118,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-socialni-mrezhi-za-biznes",
-      "pr": "",
-      "gemini": "",
+      "pr": "#376",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 100,
