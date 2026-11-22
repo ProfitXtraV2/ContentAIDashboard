@@ -1,14 +1,14 @@
 {
-  "generated_utc": "2026-11-22T11:14:17Z",
+  "generated_utc": "2026-11-22T11:30:26Z",
   "buffer": {
-    "count": 11,
+    "count": 22,
     "target": 3,
     "deficit": 0,
     "ok": true
   },
   "counts": {
-    "in-progress": 15,
-    "drafted": 11,
+    "in-progress": 4,
+    "drafted": 22,
     "approved": 0,
     "posted": 0,
     "failed": 0
@@ -142,7 +142,7 @@
       "posted_date": "",
       "folder": "2026-11-22-kakvo-e-chatbot",
       "pr": "#380",
-      "gemini": "pending",
+      "gemini": "human 100",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 60,
@@ -165,7 +165,7 @@
       "posted_date": "",
       "folder": "2026-11-22-kakvo-e-izkustven-intelekt",
       "pr": "#382",
-      "gemini": "pending",
+      "gemini": "human 100",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 56,
@@ -188,7 +188,7 @@
       "posted_date": "",
       "folder": "2026-11-22-crm-sistema",
       "pr": "#378",
-      "gemini": "pending",
+      "gemini": "human 100",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 62,
@@ -211,7 +211,7 @@
       "posted_date": "",
       "folder": "2026-11-22-obsluzhvane-na-klienti",
       "pr": "#379",
-      "gemini": "pending",
+      "gemini": "human 100",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 48,
@@ -234,7 +234,7 @@
       "posted_date": "",
       "folder": "2026-11-22-kakvo-e-uebsait",
       "pr": "#384",
-      "gemini": "pending",
+      "gemini": "human 100",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 62,
@@ -257,7 +257,7 @@
       "posted_date": "",
       "folder": "2026-11-22-kak-da-napravite-onlain-magazin",
       "pr": "#381",
-      "gemini": "pending",
+      "gemini": "human 100",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 48,
@@ -269,7 +269,7 @@
     },
     {
       "id": "xa-0012",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/optimizacia-za-ai/",
       "keywords_or_terms": "оптимизация за ai; geo оптимизация; ai оптимизация за google; търсене с ai; оптимизация за chatgpt",
@@ -279,8 +279,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-optimizacia-za-ai",
-      "pr": "",
-      "gemini": "",
+      "pr": "#385",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 48,
@@ -376,7 +376,7 @@
     },
     {
       "id": "xa-0017",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/chatgpt-na-balgarski/",
       "keywords_or_terms": "чат gpt на български; chatgpt на български; изкуствен интелект на български",
@@ -386,8 +386,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-chatgpt-na-balgarski",
-      "pr": "",
-      "gemini": "",
+      "pr": "#394",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 100,
@@ -399,7 +399,7 @@
     },
     {
       "id": "xa-0018",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/kakvo-e-logo/",
       "keywords_or_terms": "лого; какво е лого; добро лого",
@@ -409,8 +409,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-kakvo-e-logo",
-      "pr": "",
-      "gemini": "",
+      "pr": "#387",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 100,
@@ -422,7 +422,7 @@
     },
     {
       "id": "xa-0019",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/biznes-prezentacia/",
       "keywords_or_terms": "презентация; как да направя презентация; ai за презентации",
@@ -432,8 +432,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-biznes-prezentacia",
-      "pr": "",
-      "gemini": "",
+      "pr": "#389",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 100,
@@ -445,7 +445,7 @@
     },
     {
       "id": "xa-0020",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/kakvo-e-marketing/",
       "keywords_or_terms": "маркетинг; какво е маркетинг; маркетинг микс; маркетингова стратегия",
@@ -455,8 +455,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-kakvo-e-marketing",
-      "pr": "",
-      "gemini": "",
+      "pr": "#390",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 96,
@@ -468,7 +468,7 @@
     },
     {
       "id": "xa-0021",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/kakvo-e-kpi/",
       "keywords_or_terms": "kpi; ключови показатели за ефективност",
@@ -478,8 +478,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-kakvo-e-kpi",
-      "pr": "",
-      "gemini": "",
+      "pr": "#391",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 95,
@@ -491,7 +491,7 @@
     },
     {
       "id": "xa-0022",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/faktura/",
       "keywords_or_terms": "фактура; стокова разписка; кредитно известие",
@@ -501,8 +501,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-faktura",
-      "pr": "",
-      "gemini": "",
+      "pr": "#393",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 84,
@@ -514,7 +514,7 @@
     },
     {
       "id": "xa-0023",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/imeyl-adres-za-firmata/",
       "keywords_or_terms": "имейл адрес; създаване на имейл адрес",
@@ -524,8 +524,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-imeyl-adres-za-firmata",
-      "pr": "",
-      "gemini": "",
+      "pr": "#386",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 85,
@@ -537,7 +537,7 @@
     },
     {
       "id": "xa-0024",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/kakvo-e-brand/",
       "keywords_or_terms": "бранд; брандинг; слоган",
@@ -547,8 +547,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-kakvo-e-brand",
-      "pr": "",
-      "gemini": "",
+      "pr": "#388",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 75,
@@ -560,7 +560,7 @@
     },
     {
       "id": "xa-0025",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/biznes-plan/",
       "keywords_or_terms": "бизнес план; бизнес план пример",
@@ -570,8 +570,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-biznes-plan",
-      "pr": "",
-      "gemini": "",
+      "pr": "#392",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 70,
@@ -583,7 +583,7 @@
     },
     {
       "id": "xa-0026",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/proforma-faktura/",
       "keywords_or_terms": "проформа фактура; проформа фактура образец",
@@ -593,8 +593,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-proforma-faktura",
-      "pr": "",
-      "gemini": "",
+      "pr": "#395",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 65,
