@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-22T11:00:12Z",
+  "generated_utc": "2026-11-22T11:10:40Z",
   "buffer": {
     "count": 11,
     "target": 3,
@@ -7,7 +7,7 @@
     "ok": true
   },
   "counts": {
-    "in-progress": 0,
+    "in-progress": 5,
     "drafted": 11,
     "approved": 0,
     "posted": 0,
@@ -264,6 +264,113 @@
         "band": "Good",
         "winnable": true
       },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0012",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/optimizacia-za-ai/",
+      "keywords_or_terms": "оптимизация за ai; geo оптимизация; ai оптимизация за google; търсене с ai; оптимизация за chatgpt",
+      "volume": "150",
+      "kd": "0",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-optimizacia-za-ai",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 48,
+        "band": "Good",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0013",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/lokalno-seo/",
+      "keywords_or_terms": "локално seo; локално seo българия",
+      "volume": "200",
+      "kd": "0",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-lokalno-seo",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 50,
+        "band": "Good",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0014",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/primeri-za-izkustven-intelekt/",
+      "keywords_or_terms": "примери за изкуствен интелект; изкуствен интелект в малкия бизнес",
+      "volume": "100",
+      "kd": "0",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-primeri-za-izkustven-intelekt",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": {
+        "score": 45,
+        "band": "Good",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0015",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/kakvo-e-prompt/",
+      "keywords_or_terms": "промпт; промпт инженеринг; как да пиша промпт",
+      "volume": "250",
+      "kd": "",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-kakvo-e-prompt",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": null,
+      "verify_flags": null,
+      "verify_samples": []
+    },
+    {
+      "id": "xa-0016",
+      "status": "in-progress",
+      "type": "new-page",
+      "query": "/saveti/ai-agenti/",
+      "keywords_or_terms": "ai агенти; ai агент",
+      "volume": "40",
+      "kd": "",
+      "source": "backlog",
+      "drafted_date": "2026-11-22",
+      "posted_date": "",
+      "folder": "2026-11-22-ai-agenti",
+      "pr": "",
+      "gemini": "",
+      "notes": "manual run, owner's session 2026-11-22",
+      "opportunity": null,
       "verify_flags": null,
       "verify_samples": []
     }
@@ -626,6 +733,88 @@
         "band": "Good",
         "winnable": true
       }
+    },
+    {
+      "priority": "22",
+      "type": "new-page",
+      "query": "/saveti/optimizacia-za-ai/",
+      "keywords_or_terms": "оптимизация за ai",
+      "volume": "150",
+      "kd": "0",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article (owner idea: how to rank in AI search). How ChatGPT/Gemini/Perplexity/Google AI answers find and cite sources; what a small business can do (clear facts, structured pages, profiles, consistent data, being cited elsewhere); only sourced facts; no guarantees; links /seo-optimizacia/, /saveti/ai-rezhim-google/ only if live.",
+      "opportunity": {
+        "score": 48,
+        "band": "Good",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "23",
+      "type": "new-page",
+      "query": "/saveti/lokalno-seo/",
+      "keywords_or_terms": "локално seo",
+      "volume": "200",
+      "kd": "0",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article (owner idea: do better in local SEO + what am I missing). Google business profile, consistent name/address/phone, location pages, reviews wording per site rules (оценки и коментари), map, local links; a self-check list of what is often missing; links /seo-optimizacia/, /saveti/google-biznes-profil/.",
+      "opportunity": {
+        "score": 50,
+        "band": "Good",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "24",
+      "type": "new-page",
+      "query": "/saveti/primeri-za-izkustven-intelekt/",
+      "keywords_or_terms": "примери за изкуствен интелект",
+      "volume": "100",
+      "kd": "0",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article (owner idea: what am I missing if I don't use AI). Concrete, clearly labelled hypothetical examples per business type (restaurant, salon, shop, service firm) based on canon services; what stays manual; no invented savings numbers; links /ai-asistent/, /avtomatizacii/.",
+      "opportunity": {
+        "score": 45,
+        "band": "Good",
+        "winnable": true
+      }
+    },
+    {
+      "priority": "25",
+      "type": "new-page",
+      "query": "/saveti/kakvo-e-prompt/",
+      "keywords_or_terms": "промпт",
+      "volume": "250",
+      "kd": "",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article (owner idea: save time with AI). What a prompt is, the parts of a good one (role, task, context, format, examples, checks), before/after examples for business tasks (offer, reply, post), checking the output; no time-saving percentages; links /saveti/kakvo-e-izkustven-intelekt/ only if live, /ai-asistent/.",
+      "opportunity": null
+    },
+    {
+      "priority": "26",
+      "type": "new-page",
+      "query": "/saveti/ai-agenti/",
+      "keywords_or_terms": "ai агенти",
+      "volume": "40",
+      "kd": "",
+      "intent": "informational",
+      "checked": "ahrefs",
+      "ahrefs_note": "2026-11-22",
+      "status": "open",
+      "notes": "Article (owner idea: reduce time spent with AI; NO '50%' or other invented figures). What an AI agent is vs a chatbot, tasks it can take over in a small business (bookings, offers, follow-ups, documents) within canon, where a person must approve, how to start; links /avtomatizacii/, /ai-asistent/.",
+      "opportunity": null
     }
   ],
   "research": [],
