@@ -1,14 +1,14 @@
 {
-  "generated_utc": "2026-11-22T10:30:47Z",
+  "generated_utc": "2026-11-22T11:00:12Z",
   "buffer": {
-    "count": 5,
+    "count": 11,
     "target": 3,
     "deficit": 0,
     "ok": true
   },
   "counts": {
-    "in-progress": 6,
-    "drafted": 5,
+    "in-progress": 0,
+    "drafted": 11,
     "approved": 0,
     "posted": 0,
     "failed": 0
@@ -131,7 +131,7 @@
     },
     {
       "id": "xa-0006",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/kakvo-e-chatbot/",
       "keywords_or_terms": "чатбот; чатбот значение; какво е чатбот; ai чатбот за сайт",
@@ -141,8 +141,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-kakvo-e-chatbot",
-      "pr": "",
-      "gemini": "",
+      "pr": "#380",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 60,
@@ -154,7 +154,7 @@
     },
     {
       "id": "xa-0007",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/kakvo-e-izkustven-intelekt/",
       "keywords_or_terms": "какво е изкуствен интелект; как да използваме изкуствен интелект; изкуствен интелект в бизнеса",
@@ -164,8 +164,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-kakvo-e-izkustven-intelekt",
-      "pr": "",
-      "gemini": "",
+      "pr": "#382",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 56,
@@ -177,7 +177,7 @@
     },
     {
       "id": "xa-0008",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/crm-sistema/",
       "keywords_or_terms": "crm система; crm системи; какво е crm; crm за малък бизнес",
@@ -187,8 +187,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-crm-sistema",
-      "pr": "",
-      "gemini": "",
+      "pr": "#378",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 62,
@@ -200,7 +200,7 @@
     },
     {
       "id": "xa-0009",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/obsluzhvane-na-klienti/",
       "keywords_or_terms": "обслужване на клиенти; обслужване на клиенти в малкия бизнес; бърз отговор на запитвания",
@@ -210,8 +210,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-obsluzhvane-na-klienti",
-      "pr": "",
-      "gemini": "",
+      "pr": "#379",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 48,
@@ -223,7 +223,7 @@
     },
     {
       "id": "xa-0010",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/kakvo-e-uebsait/",
       "keywords_or_terms": "уебсайт; уеб сайт; какво е уеб сайт",
@@ -233,8 +233,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-kakvo-e-uebsait",
-      "pr": "",
-      "gemini": "",
+      "pr": "#384",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 62,
@@ -246,7 +246,7 @@
     },
     {
       "id": "xa-0011",
-      "status": "in-progress",
+      "status": "drafted",
       "type": "new-page",
       "query": "/saveti/kak-da-napravite-onlain-magazin/",
       "keywords_or_terms": "как да си направя онлайн магазин; как се прави онлайн магазин",
@@ -256,8 +256,8 @@
       "drafted_date": "2026-11-22",
       "posted_date": "",
       "folder": "2026-11-22-kak-da-napravite-onlain-magazin",
-      "pr": "",
-      "gemini": "",
+      "pr": "#381",
+      "gemini": "pending",
       "notes": "manual run, owner's session 2026-11-22",
       "opportunity": {
         "score": 48,
