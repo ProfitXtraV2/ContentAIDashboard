@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-22T12:23:53Z",
+  "generated_utc": "2026-11-22T12:36:01Z",
   "buffer": {
     "count": 26,
     "target": 3,
@@ -360,7 +360,7 @@
       "status": "drafted",
       "type": "new-page",
       "query": "/saveti/ai-agenti/",
-      "keywords_or_terms": "ai агенти; ai агент",
+      "keywords_or_terms": "ai агенти",
       "volume": "40",
       "kd": "",
       "source": "backlog",
