@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-22T09:44:57Z",
+  "generated_utc": "2026-11-22T09:45:25Z",
   "buffer": {
     "count": 217,
     "target": 10,
@@ -8,8 +8,8 @@
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 215,
-    "approved": 2,
+    "drafted": 213,
+    "approved": 4,
     "posted": 124,
     "failed": 1
   },
@@ -6958,7 +6958,7 @@
     },
     {
       "id": "vk-0339",
-      "status": "drafted",
+      "status": "approved",
       "type": "guide",
       "query": "Стилиян Петров — кариера, CSKA, Селтик, Астън Вила и битката с левкемията",
       "keywords_or_terms": "стилиян петров, стилиян петров кариера, стилиян петров астън вила",
@@ -7027,7 +7027,7 @@
     },
     {
       "id": "vk-0342",
-      "status": "drafted",
+      "status": "approved",
       "type": "guide",
       "query": "Пирин Благоевград — история на клуба",
       "keywords_or_terms": "пирин благоевград, пирин благоевград история",
