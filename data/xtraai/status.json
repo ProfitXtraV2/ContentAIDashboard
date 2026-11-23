@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-11-22T17:55:52Z",
+  "generated_utc": "2026-11-23T17:42:15Z",
   "buffer": {
-    "count": 24,
+    "count": 17,
     "target": 3,
     "deficit": 0,
     "ok": true
@@ -9,8 +9,8 @@
   "counts": {
     "in-progress": 0,
     "drafted": 17,
-    "approved": 7,
-    "posted": 2,
+    "approved": 0,
+    "posted": 9,
     "failed": 0
   },
   "rows": [
@@ -74,7 +74,7 @@
     },
     {
       "id": "xa-0003",
-      "status": "approved",
+      "status": "posted",
       "type": "new-page",
       "query": "/saveti/digitalen-marketing/",
       "keywords_or_terms": "дигитален маркетинг; какво е дигитален маркетинг; онлайн маркетинг",
@@ -82,7 +82,7 @@
       "kd": "8",
       "source": "backlog",
       "drafted_date": "2026-11-22",
-      "posted_date": "",
+      "posted_date": "2026-11-23",
       "folder": "2026-11-22-digitalen-marketing",
       "pr": "#374",
       "gemini": "human 100",
@@ -103,7 +103,7 @@
     },
     {
       "id": "xa-0004",
-      "status": "approved",
+      "status": "posted",
       "type": "new-page",
       "query": "/saveti/kakvo-e-domein/",
       "keywords_or_terms": "домейн; какво е домейн; регистрация на домейн; избор на домейн",
@@ -111,7 +111,7 @@
       "kd": "9",
       "source": "backlog",
       "drafted_date": "2026-11-22",
-      "posted_date": "",
+      "posted_date": "2026-11-23",
       "folder": "2026-11-22-kakvo-e-domein",
       "pr": "#375",
       "gemini": "human 100",
@@ -132,7 +132,7 @@
     },
     {
       "id": "xa-0005",
-      "status": "approved",
+      "status": "posted",
       "type": "new-page",
       "query": "/saveti/socialni-mrezhi-za-biznes/",
       "keywords_or_terms": "социални мрежи; социални мрежи в българия; кои са социалните мрежи",
@@ -140,7 +140,7 @@
       "kd": "0",
       "source": "backlog",
       "drafted_date": "2026-11-22",
-      "posted_date": "",
+      "posted_date": "2026-11-23",
       "folder": "2026-11-22-socialni-mrezhi-za-biznes",
       "pr": "#376",
       "gemini": "human 90",
@@ -406,7 +406,7 @@
     },
     {
       "id": "xa-0017",
-      "status": "approved",
+      "status": "posted",
       "type": "new-page",
       "query": "/saveti/chatgpt-na-balgarski/",
       "keywords_or_terms": "чат gpt на български; chatgpt на български; изкуствен интелект на български",
@@ -414,7 +414,7 @@
       "kd": "0",
       "source": "backlog",
       "drafted_date": "2026-11-22",
-      "posted_date": "",
+      "posted_date": "2026-11-23",
       "folder": "2026-11-22-chatgpt-na-balgarski",
       "pr": "#394",
       "gemini": "human 100",
@@ -435,7 +435,7 @@
     },
     {
       "id": "xa-0018",
-      "status": "approved",
+      "status": "posted",
       "type": "new-page",
       "query": "/saveti/kakvo-e-logo/",
       "keywords_or_terms": "лого; какво е лого; добро лого",
@@ -443,7 +443,7 @@
       "kd": "0",
       "source": "backlog",
       "drafted_date": "2026-11-22",
-      "posted_date": "",
+      "posted_date": "2026-11-23",
       "folder": "2026-11-22-kakvo-e-logo",
       "pr": "#387",
       "gemini": "human 100",
@@ -458,7 +458,7 @@
     },
     {
       "id": "xa-0019",
-      "status": "approved",
+      "status": "posted",
       "type": "new-page",
       "query": "/saveti/biznes-prezentacia/",
       "keywords_or_terms": "презентация; как да направя презентация; ai за презентации",
@@ -466,7 +466,7 @@
       "kd": "0",
       "source": "backlog",
       "drafted_date": "2026-11-22",
-      "posted_date": "",
+      "posted_date": "2026-11-23",
       "folder": "2026-11-22-biznes-prezentacia",
       "pr": "#389",
       "gemini": "human 100",
@@ -485,7 +485,7 @@
     },
     {
       "id": "xa-0020",
-      "status": "approved",
+      "status": "posted",
       "type": "new-page",
       "query": "/saveti/kakvo-e-marketing/",
       "keywords_or_terms": "маркетинг; какво е маркетинг; маркетинг микс; маркетингова стратегия",
@@ -493,7 +493,7 @@
       "kd": "9",
       "source": "backlog",
       "drafted_date": "2026-11-22",
-      "posted_date": "",
+      "posted_date": "2026-11-23",
       "folder": "2026-11-22-kakvo-e-marketing",
       "pr": "#390",
       "gemini": "human 100",
