@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-24T07:48:15Z",
+  "generated_utc": "2026-11-24T23:17:19Z",
   "buffer": {
     "count": 216,
     "target": 10,
@@ -7062,7 +7062,7 @@
       "folder": "2026-11-24-dimitar-berbatov",
       "pr": "#403",
       "gemini": "ai 75",
-      "notes": "daily run 2026-11-24 top open P0 backlog (OWNER-APPROVED 2026-10-28 BG-football batch); evergreen legend player profile, guides-only (0 operator/НАП/affiliate; 0 current stats/standings/transfers/odds/predictions); dedup queue+folder clean, sitemap challenge-blocked (prev run confirmed 0 berbatov). Gate 95 PASS 0-crit. Gemini Step-7 TEXT keep-best HL 15->20->25 across 2 humaniser passes (cap), kept pass-2 (ai 75; noisy detector, below 80 -> flagged for human). img:2 (infographic 100, hero 100) image review PASS 0-integrity first pass. ~730 words, 0 surviving flags. Career totals 504/213 reconciled incl. Leverkusen II. PR #403 open for owner review.",
+      "notes": "daily run 2026-11-24 top open P0 backlog (OWNER-APPROVED 2026-10-28 BG-football batch); evergreen legend player profile, guides-only (0 operator/НАП/affiliate; 0 current stats/standings/transfers/odds/predictions); dedup queue+folder clean, sitemap challenge-blocked (prev run confirmed 0 berbatov). Gate 95 PASS 0-crit. Gemini Step-7 TEXT keep-best HL 15->20->25 across 2 humaniser passes (cap), kept pass-2 (ai 75; noisy detector, below 80 -> flagged for human). img:2 (infographic 100, hero 100) image review PASS 0-integrity first pass. ~730 words, 0 surviving flags. Career totals 504/213 reconciled incl. Leverkusen II. PR #403 open for owner review. · nightly 2026-11-24: JOB-B humanise pass (rephrase-only, 0 fact/number/date/name changes) — broke the transfer+stats+highlight loop, varied club-stat phrasings and paragraph openers (no longer all date-led), narrativised „Последните клубове\", dropped the „not X but Y\" style opener, removed mic-drop closers and colon stat-dumps, naturalised hero alt-text; all infographic values still in text; byline/brand/RG untouched. Gemini Step-7 4 re-checks ai 85/85/85/75 (noisy, bimodal on football bios; original also ai 85 today); kept best cleaned version at ai 75 (<80) -> still flagged for human Step-6. Committed aafe2c9 on content/ branch (PR #403).",
       "opportunity": {
         "score": 100,
         "band": "Strong",
