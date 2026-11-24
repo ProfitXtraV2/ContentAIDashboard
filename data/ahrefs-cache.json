@@ -3753,7 +3753,7 @@
 }
 },
 "bg|мегауейс": {
-"fetched": "2026-10-11",
+"fetched": "2026-11-24",
 "row": {}
 },
 "bg|мегауейс слот": {
@@ -3810,6 +3810,16 @@
 },
 "trend": "down"
 },
+"bg|нетент казино": {
+"fetched": "2026-11-24",
+"row": {
+"cpc": null,
+"difficulty": null,
+"intents": {},
+"keyword": "нетент казино",
+"volume": 0
+}
+},
 "bg|оазис покер": {
 "fetched": "2026-10-26",
 "row": {
@@ -3843,6 +3853,24 @@
 "bg|пика карти игра": {
 "fetched": "2026-10-27",
 "row": {}
+},
+"bg|плейтех": {
+"fetched": "2026-11-24",
+"row": {
+"cpc": null,
+"difficulty": null,
+"intents": {
+"branded": true,
+"commercial": true,
+"informational": true,
+"local": false,
+"navigational": false,
+"transactional": false
+},
+"keyword": "плейтех",
+"volume": 10
+},
+"trend": "down"
 },
 "bg|покер за начинаещи": {
 "fetched": "2026-10-19",
@@ -4110,6 +4138,16 @@
 "bg|скатер символ": {
 "fetched": "2026-10-24",
 "row": {}
+},
+"bg|скреч карти онлайн": {
+"fetched": "2026-11-24",
+"row": {
+"cpc": null,
+"difficulty": null,
+"intents": {},
+"keyword": "скреч карти онлайн",
+"volume": 0
+}
 },
 "bg|скрч карти": {
 "fetched": "2026-11-17",

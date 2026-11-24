@@ -1,13 +1,15 @@
 {
-  "state": "running",
+  "state": "idle",
   "run_started_utc": "2026-11-24T07:14:00Z",
-  "run_finished_utc": null,
-  "articles_written": null,
-  "prs_opened": [],
+  "run_finished_utc": "2026-11-24T07:49:00Z",
+  "articles_written": 1,
+  "prs_opened": [
+    403
+  ],
   "run_url": "https://claude.ai/code/session_01AwuYFSpmuZXU75eoJ2LUnb",
-  "note": "daily run 2026-11-24 — throttled MAX_PER_RUN=1. Reconcile clean on entry (0 in-progress/HANDOFF/CLAIMED). Monthly SEO review NOT due (marker 2026-11 == current). Selecting top open P0 backlog: Димитър Бербатов (player profile guide).",
+  "note": "daily run 2026-11-24 — throttled MAX_PER_RUN=1. Reconcile clean on entry (0 in-progress/HANDOFF/CLAIMED). Monthly SEO review NOT due (marker 2026-11 == current). WROTE 1 NEW guide vk-0343 „Димитър Бербатов — кариера, рекорди и стил на игра“ (PR #403) — top open P0 backlog (owner-approved 2026-10-28 BG-football batch), димитър бербатов 3000/kd0 informational WIN, single best distinct topic after dedup+research. Evergreen PLAYER legend profile (guides-only: 0 operator/НАП/affiliate; 0 current standings/results/fixtures/transfers/odds/predictions). Пирин→ЦСКА→Леверкузен→Тотнъм→Юнайтед→последни клубове; 504/213 клубно (реконсилирано incl. Leverkusen II 7/6); 78 мача/48 гола РЕКОРД за България; 7× Футболист на годината; Златна обувка 2010/11 (20 гола, споделена с Тевес); финал ШЛ 2009. Факти кръстосано сверени EN+BG Wikipedia (BG intro page-errors 108/67 + 31 ПРЕНЕБРЕГНАТИ). Dedup vs queue(0 berbatov article)+folder+bank = clean; live sitemap Cloudflare-challenge-blocked (prev run confirmed 0 berbatov). Gate 95 PASS 0-crit (byline Георги Тодоров; бранд Всички Казина; 0 em/en-dash; 8 internal links; verbatim 18+ RG; no affiliate footer — 0 operators). GEMINI ONLINE: Step-7 TEXT keep-best HL 15 (AI85) → humaniser pass1 → HL20 (AI80) → humaniser pass2 → HL25 (AI75), MAX_GEMINI_PASSES(2) reached, monotonic ↑, kept pass-2 = ai 75 (noisy goalposts-relocate detector on factual legend profile, <80 → flagged for human; every number/link/RG preserved). Step-8 img:2 — infographic (14 numbers 1:1 vs 05b, Chromium render clean) + decorative hero (round soccer ball WebP 16.6KB, regenerated once after 1st gen was an American football); Gemini image review 100/100 PASS 0-integrity first pass. ~730 words, 0 surviving flags. AHREFS ONLINE (~113,689 units remaining, reset 2026-12-15); light discovery 8 seeds → 0 new candidates (амуснет 60/egt 20/бинго 50/плейтех 10 thin-commercial watch-items; нетент/крапс/скреч confirmed-zero; market saturated, no padding). Board: queue vk-0343 drafted (PR #403, img:2 100, gemini ai 75); backlog Бербатов row open→written; research bank +run-note (0 added, 4 candidates intact); dashboard rebuilt buffer 216/10; content refs fetched. PR-activity subscribe unavailable (needs push access). FEED REFRESH HELD: build_feed again regresses vk-0280 elektronna-ruletka author bio to forbidden „тества…със собствен бюджет“ (brand-gate Tier-3 violation on its approved content branch); published/ NOT re-committed to keep live feed compliant; no NEW approved article this fire so nothing legitimate held back; HUMAN must fix the approved source bio to the canonical „автор на ревюта…проверява и оценява“. PR #403 open for owner review. NO flags resolved, nothing posted/merged/fabricated. Clean finish.",
   "progress": {
-    "phase": "writing",
+    "phase": "done",
     "article_index": 1,
     "article_total": 1,
     "article_slug": "2026-11-24-dimitar-berbatov",
@@ -23,7 +25,7 @@
       "Verification",
       "PR"
     ],
-    "stage_index": 7,
-    "stage": "Images"
+    "stage_index": null,
+    "stage": null
   }
 }

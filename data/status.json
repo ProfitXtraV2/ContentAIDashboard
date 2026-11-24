@@ -1,14 +1,14 @@
 {
-  "generated_utc": "2026-11-24T07:15:43Z",
+  "generated_utc": "2026-11-24T07:48:15Z",
   "buffer": {
-    "count": 215,
+    "count": 216,
     "target": 10,
     "deficit": 0,
     "ok": true
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 211,
+    "drafted": 212,
     "approved": 4,
     "posted": 126,
     "failed": 1
@@ -7047,6 +7047,29 @@
       },
       "verify_flags": 0,
       "verify_samples": []
+    },
+    {
+      "id": "vk-0343",
+      "status": "drafted",
+      "type": "guide",
+      "query": "Димитър Бербатов — кариера, рекорди и стил на игра",
+      "keywords_or_terms": "димитър бербатов, бербатов кариера, бербатов манчестър юнайтед",
+      "volume": "3000",
+      "kd": "0",
+      "source": "backlog",
+      "drafted_date": "2026-11-24",
+      "posted_date": "",
+      "folder": "2026-11-24-dimitar-berbatov",
+      "pr": "#403",
+      "gemini": "ai 75",
+      "notes": "daily run 2026-11-24 top open P0 backlog (OWNER-APPROVED 2026-10-28 BG-football batch); evergreen legend player profile, guides-only (0 operator/НАП/affiliate; 0 current stats/standings/transfers/odds/predictions); dedup queue+folder clean, sitemap challenge-blocked (prev run confirmed 0 berbatov). Gate 95 PASS 0-crit. Gemini Step-7 TEXT keep-best HL 15->20->25 across 2 humaniser passes (cap), kept pass-2 (ai 75; noisy detector, below 80 -> flagged for human). img:2 (infographic 100, hero 100) image review PASS 0-integrity first pass. ~730 words, 0 surviving flags. Career totals 504/213 reconciled incl. Leverkusen II. PR #403 open for owner review.",
+      "opportunity": {
+        "score": 100,
+        "band": "Strong",
+        "winnable": true
+      },
+      "verify_flags": 0,
+      "verify_samples": []
     }
   ],
   "backlog": [
@@ -7636,8 +7659,8 @@
       "intent": "informational",
       "checked": "ahrefs",
       "ahrefs_note": "WIN 3000/kd0 (2026-10-28 football sweep). Legend profile.",
-      "status": "open",
-      "notes": "OWNER-APPROVED 2026-10-28 (Bulgarian-football batch). Evergreen profile/history only. NEVER print current standings, results, fixtures, transfer rumours or odds. Real people: verifiable facts only, [VERIFY] anything uncertain, no speculation about private life. Link the Ефбет Лига guide plus sibling club/legend articles. No betting tips; optional RG line.",
+      "status": "written",
+      "notes": "OWNER-APPROVED 2026-10-28 (Bulgarian-football batch). Evergreen profile/history only. NEVER print current standings, results, fixtures, transfer rumours or odds. Real people: verifiable facts only, [VERIFY] anything uncertain, no speculation about private life. Link the Ефбет Лига guide plus sibling club/legend articles. No betting tips; optional RG line. · WRITTEN 2026-11-24 (recurring fire, top open P0) → vk-0343, PR #403. Evergreen играчов профил: Пирин→ЦСКА→Леверкузен→Тотнъм→Юнайтед→Фулъм/Монако/ПАОК/Керала; 504/213 клубно (incl. Leverkusen II); 78 мача/48 гола рекорд за България; 7× Футболист на годината; Златна обувка 2010/11 (20 гола, споделена с Тевес); финал ШЛ 2009. Guides-only ✓ (0 operator/НАП/affiliate; 0 класиране/резултати/трансфери/коефициенти/прогнози). Факти EN+BG Wikipedia. Gate 95, Gemini ai 75 (keep-best pass 2, HL 25; noisy detector <80 → flagged за човек), img:2 (review 100), ~730 думи, 0 flags. Сиблинг линкове: Пирин/ЦСКА София/национален отбор/футбол хъб.",
       "opportunity": {
         "score": 100,
         "band": "Strong",
@@ -13243,32 +13266,19 @@
       }
     ],
     "bands": {
-      "Strong": 28,
+      "Strong": 27,
       "Good": 1,
       "Pillar": 2,
       "Moderate": 2
     },
     "clusters": {
       "uncategorised": {
-        "winnable": 30,
+        "winnable": 29,
         "pillar": 2,
-        "total": 33
+        "total": 32
       }
     },
     "winnable": [
-      {
-        "query": "Димитър Бербатов — кариера, рекорди и стил на игра",
-        "keywords": "димитър бербатов, бербатов кариера, бербатов манчестър юнайтед",
-        "volume": "3000",
-        "kd": "0",
-        "intent": "informational",
-        "band": "Strong",
-        "score": 100,
-        "winnable": true,
-        "cluster": "uncategorised",
-        "status": "open",
-        "src": "backlog"
-      },
       {
         "query": "Героите от САЩ '94 — Балъков, Лечков, Аспарухов и златното поколение",
         "keywords": "красимир балъков, йордан лечков, георги аспарухов, сащ 94 българия, златното поколение",
@@ -13677,7 +13687,7 @@
     ],
     "tracking": [],
     "counts": {
-      "winnable": 30,
+      "winnable": 29,
       "pillars": 2
     }
   }
