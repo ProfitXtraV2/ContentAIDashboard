@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-23T17:42:15Z",
+  "generated_utc": "2026-11-24T19:15:24Z",
   "buffer": {
     "count": 17,
     "target": 3,
@@ -8,8 +8,8 @@
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 17,
-    "approved": 0,
+    "drafted": 16,
+    "approved": 1,
     "posted": 9,
     "failed": 0
   },
@@ -531,7 +531,7 @@
     },
     {
       "id": "xa-0022",
-      "status": "drafted",
+      "status": "approved",
       "type": "new-page",
       "query": "/saveti/faktura/",
       "keywords_or_terms": "фактура; стокова разписка; кредитно известие",
@@ -549,8 +549,14 @@
         "band": "Strong",
         "winnable": true
       },
-      "verify_flags": null,
-      "verify_samples": []
+      "verify_flags": 8,
+      "verify_samples": [
+        "[VERIFY]",
+        "[VERIFY: чл. 113, ал. 1 и ал. 3 ЗДДС — https://lex.bg/laws/ldoc/2135533201]",
+        "[VERIFY: чл. 113, ал. 4 и ал. 5 ЗДДС — https://lex.bg/laws/ldoc/2135533201]",
+        "[VERIFY: чл. 114, ал. 1 ЗДДС — https://lex.bg/laws/ldoc/2135533201]",
+        "[VERIFY: чл. 115, ал. 1 и ал. 3 ЗДДС — https://lex.bg/laws/ldoc/2135533201]"
+      ]
     },
     {
       "id": "xa-0023",
