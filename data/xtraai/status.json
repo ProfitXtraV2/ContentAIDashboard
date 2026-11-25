@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-11-24T19:15:24Z",
+  "generated_utc": "2026-11-25T13:03:33Z",
   "buffer": {
-    "count": 17,
+    "count": 16,
     "target": 3,
     "deficit": 0,
     "ok": true
@@ -9,8 +9,8 @@
   "counts": {
     "in-progress": 0,
     "drafted": 16,
-    "approved": 1,
-    "posted": 9,
+    "approved": 0,
+    "posted": 10,
     "failed": 0
   },
   "rows": [
@@ -531,7 +531,7 @@
     },
     {
       "id": "xa-0022",
-      "status": "approved",
+      "status": "posted",
       "type": "new-page",
       "query": "/saveti/faktura/",
       "keywords_or_terms": "фактура; стокова разписка; кредитно известие",
@@ -539,7 +539,7 @@
       "kd": "15",
       "source": "backlog",
       "drafted_date": "2026-11-22",
-      "posted_date": "",
+      "posted_date": "2026-11-25",
       "folder": "2026-11-22-faktura",
       "pr": "#393",
       "gemini": "human 100",
