@@ -7,12 +7,23 @@
   "run_url": "https://claude.ai/code/session_01AwuYFRuoW6pYH9QS37vkv7",
   "note": "daily run 2026-11-25 — started; reconcile clean (0 in-progress/HANDOFF/active-CLAIMED); monthly SEO review NOT due (marker 2026-11 == current month). Throttled MAX_PER_RUN=1.",
   "progress": {
-    "phase": "selecting",
+    "phase": "writing",
     "article_index": 1,
     "article_total": 1,
-    "article_slug": null,
-    "stages": ["Synthesis","Outline","Author","Humaniser","SEO","Brand Gate","Light re-check","Images","Verification","PR"],
-    "stage_index": null,
-    "stage": null
+    "article_slug": "2026-11-25-geroite-ot-sasht-94",
+    "stages": [
+      "Synthesis",
+      "Outline",
+      "Author",
+      "Humaniser",
+      "SEO",
+      "Brand Gate",
+      "Light re-check",
+      "Images",
+      "Verification",
+      "PR"
+    ],
+    "stage_index": 0,
+    "stage": "Synthesis"
   }
 }
