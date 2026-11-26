@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-11-26T07:53:05Z",
+  "generated_utc": "2026-11-26T15:23:24Z",
   "buffer": {
-    "count": 16,
+    "count": 15,
     "target": 3,
     "deficit": 0,
     "ok": true
@@ -9,8 +9,8 @@
   "counts": {
     "in-progress": 0,
     "drafted": 9,
-    "approved": 7,
-    "posted": 10,
+    "approved": 6,
+    "posted": 11,
     "failed": 0
   },
   "rows": [
@@ -595,7 +595,7 @@
     },
     {
       "id": "xa-0023",
-      "status": "approved",
+      "status": "posted",
       "type": "new-page",
       "query": "/saveti/imeyl-adres-za-firmata/",
       "keywords_or_terms": "имейл адрес; създаване на имейл адрес",
@@ -603,7 +603,7 @@
       "kd": "0",
       "source": "backlog",
       "drafted_date": "2026-11-22",
-      "posted_date": "",
+      "posted_date": "2026-11-26",
       "folder": "2026-11-22-imeyl-adres-za-firmata",
       "pr": "#386",
       "gemini": "human 100",
