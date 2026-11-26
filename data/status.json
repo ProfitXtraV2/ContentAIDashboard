@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-26T17:45:56Z",
+  "generated_utc": "2026-11-26T17:46:26Z",
   "buffer": {
     "count": 215,
     "target": 10,
@@ -8,8 +8,8 @@
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 202,
-    "approved": 13,
+    "drafted": 201,
+    "approved": 14,
     "posted": 129,
     "failed": 1
   },
@@ -3451,7 +3451,7 @@
     },
     {
       "id": "vk-0170",
-      "status": "drafted",
+      "status": "approved",
       "type": "guide",
       "query": "Как работи казино на живо (live dealer): технология, дилъри и честна игра",
       "keywords_or_terms": "казино на живо как работи, live казино технология, дилъри на живо",
