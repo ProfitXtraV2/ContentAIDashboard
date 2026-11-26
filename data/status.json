@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-26T17:42:52Z",
+  "generated_utc": "2026-11-26T17:43:22Z",
   "buffer": {
     "count": 215,
     "target": 10,
@@ -8,8 +8,8 @@
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 207,
-    "approved": 8,
+    "drafted": 206,
+    "approved": 9,
     "posted": 129,
     "failed": 1
   },
@@ -3375,7 +3375,7 @@
     },
     {
       "id": "vk-0166",
-      "status": "drafted",
+      "status": "approved",
       "type": "guide",
       "query": "Управление на банкрол в онлайн казино: бюджет, лимити и размер на залога",
       "keywords_or_terms": "управление на банкрол, бюджет за казино, размер на залог, лимит за загуба",
