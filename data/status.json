@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-26T17:40:29Z",
+  "generated_utc": "2026-11-26T17:41:38Z",
   "buffer": {
     "count": 215,
     "target": 10,
@@ -8,8 +8,8 @@
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 212,
-    "approved": 3,
+    "drafted": 211,
+    "approved": 4,
     "posted": 129,
     "failed": 1
   },
@@ -6889,7 +6889,7 @@
     },
     {
       "id": "vk-0336",
-      "status": "drafted",
+      "status": "approved",
       "type": "guide",
       "query": "Григор Димитров — кариера, титли, рекорди и стил на игра",
       "keywords_or_terms": "григор димитров, григор димитров кариера, григор димитров титли",
