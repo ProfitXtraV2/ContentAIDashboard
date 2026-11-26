@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-26T17:44:40Z",
+  "generated_utc": "2026-11-26T17:45:42Z",
   "buffer": {
     "count": 215,
     "target": 10,
@@ -8,8 +8,8 @@
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 204,
-    "approved": 11,
+    "drafted": 203,
+    "approved": 12,
     "posted": 129,
     "failed": 1
   },
@@ -3470,7 +3470,7 @@
     },
     {
       "id": "vk-0171",
-      "status": "drafted",
+      "status": "approved",
       "type": "guide",
       "query": "Казино турнири и промоции: как работят наградите и лидербордите",
       "keywords_or_terms": "казино турнири, слот турнири, лидерборд казино, казино промоции",
