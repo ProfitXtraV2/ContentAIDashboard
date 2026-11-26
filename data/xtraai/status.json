@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-26T20:35:03Z",
+  "generated_utc": "2026-11-26T20:37:29Z",
   "buffer": {
     "count": 15,
     "target": 3,
@@ -8,8 +8,8 @@
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 9,
-    "approved": 6,
+    "drafted": 8,
+    "approved": 7,
     "posted": 11,
     "failed": 0
   },
@@ -352,7 +352,7 @@
     },
     {
       "id": "xa-0013",
-      "status": "drafted",
+      "status": "approved",
       "type": "new-page",
       "query": "/saveti/lokalno-seo/",
       "keywords_or_terms": "локално seo; локално seo българия",
@@ -370,8 +370,14 @@
         "band": "Good",
         "winnable": true
       },
-      "verify_flags": null,
-      "verify_samples": []
+      "verify_flags": 14,
+      "verify_samples": [
+        "[VERIFY: местните резултати се основават главно на уместност, разстояние и известност, с тези определения — https://support.google.com/business/answer/7091?hl=e",
+        "[VERIFY: няма начин да се поиска или да се плати за по-добро местно класиране в Google — https://support.google.com/business/answer/7091?hl=en]",
+        "[VERIFY: потвърждаването и пълната, точна информация правят показването в местните резултати по-вероятно; неточната информация може да попречи на показването пр",
+        "[VERIFY: известността се основава и на това колко уебсайта имат връзка към бизнеса и колко оценки и коментари има той — https://support.google.com/business/answ",
+        "[VERIFY: EDITORIAL CHECK ONLY, not a sourced fact and not counted in the 3; the sentence is general advice and makes no claim about Google's rules; Step 6 check"
+      ]
     },
     {
       "id": "xa-0014",
