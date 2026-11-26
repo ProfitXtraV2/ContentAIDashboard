@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-26T17:42:40Z",
+  "generated_utc": "2026-11-26T17:42:52Z",
   "buffer": {
     "count": 215,
     "target": 10,
@@ -8,8 +8,8 @@
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 208,
-    "approved": 7,
+    "drafted": 207,
+    "approved": 8,
     "posted": 129,
     "failed": 1
   },
@@ -1246,7 +1246,7 @@
     },
     {
       "id": "vk-0059",
-      "status": "drafted",
+      "status": "approved",
       "type": "guide",
       "query": "Купуване на бонус (bonus buy): как работи и струва ли си",
       "keywords_or_terms": "купуване на бонус, bonus buy, feature buy, купи безплатни завъртания, цена на бонуса",
