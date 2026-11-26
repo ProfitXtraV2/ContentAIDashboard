@@ -5,7 +5,7 @@
   "articles_written": null,
   "prs_opened": [],
   "run_url": null,
-  "note": "manual runs only — not scheduled (un-paused by the owner 2026-11-15)",
+  "note": "scheduled daily since 2026-11-26 (routine \"Xtra AI Daily Content Autopilot\", 05:13 UTC ≈ 07:13 Sofia, 1 article per run)",
   "progress": {
     "phase": "idle",
     "stage": null,

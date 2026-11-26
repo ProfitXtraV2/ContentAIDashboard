@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-26T15:23:24Z",
+  "generated_utc": "2026-11-26T20:35:03Z",
   "buffer": {
     "count": 15,
     "target": 3,
@@ -1317,12 +1317,15 @@
   "meta": {
     "brand": "Xtra AI",
     "schedule": {
-      "note": "manual runs only — not scheduled"
+      "cron_utc_hours": [
+        5
+      ],
+      "label": "once daily · ~07:13 Europe/Sofia (1 article per run)"
     },
     "links": {
       "repo": "https://github.com/ProfitXtraV2/AIContent",
       "prs": "https://github.com/ProfitXtraV2/AIContent/pulls",
-      "site": "https://desislavamit.github.io/biz-grow/",
+      "site": "https://xtra-ai.com/",
       "backlog": "https://github.com/ProfitXtraV2/AIContent/blob/main/XtraAI/topic-backlog.md",
       "queue": "https://github.com/ProfitXtraV2/AIContent/blob/main/XtraAI/content-queue.md"
     }
