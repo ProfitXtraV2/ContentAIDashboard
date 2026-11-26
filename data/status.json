@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-26T17:45:42Z",
+  "generated_utc": "2026-11-26T17:45:56Z",
   "buffer": {
     "count": 215,
     "target": 10,
@@ -8,8 +8,8 @@
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 203,
-    "approved": 12,
+    "drafted": 202,
+    "approved": 13,
     "posted": 129,
     "failed": 1
   },
@@ -3318,7 +3318,7 @@
     },
     {
       "id": "vk-0163",
-      "status": "drafted",
+      "status": "approved",
       "type": "guide",
       "query": "Belatra Games: профил на доставчика, механики и топ слотове",
       "keywords_or_terms": "belatra, белатра, belatra слотове, belatra rtp",
