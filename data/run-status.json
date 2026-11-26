@@ -5,14 +5,14 @@
   "articles_written": null,
   "prs_opened": [],
   "run_url": "https://claude.ai/code/session_01AwuYFVb2W7rk38PbxdMAsL",
-  "note": "daily run 2026-11-26 — throttled MAX_PER_RUN=1. Heartbeat start. Reconcile clean on entry (0 in-progress/HANDOFF/active-CLAIMED). Monthly SEO review NOT due (marker 2026-11 == current).",
+  "note": "daily run 2026-11-26 — throttled MAX_PER_RUN=1. Writing vk-0345 Атлетико Мадрид (top open P0 backlog, European-clubs batch, 11000/kd0 WIN). Reconcile clean on entry. Monthly SEO review NOT due (2026-11).",
   "progress": {
-    "phase": "selecting",
-    "article_index": null,
+    "phase": "writing",
+    "article_index": 1,
     "article_total": 1,
-    "article_slug": null,
+    "article_slug": "2026-11-26-atletiko-madrid",
     "stages": ["Synthesis","Outline","Author","Humaniser","SEO","Brand Gate","Light re-check","Images","Verification","PR"],
-    "stage_index": null,
-    "stage": null
+    "stage_index": 0,
+    "stage": "Synthesis"
   }
 }
