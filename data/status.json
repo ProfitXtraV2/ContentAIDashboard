@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-26T17:43:22Z",
+  "generated_utc": "2026-11-26T17:44:11Z",
   "buffer": {
     "count": 215,
     "target": 10,
@@ -8,8 +8,8 @@
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 206,
-    "approved": 9,
+    "drafted": 205,
+    "approved": 10,
     "posted": 129,
     "failed": 1
   },
@@ -3394,7 +3394,7 @@
     },
     {
       "id": "vk-0167",
-      "status": "drafted",
+      "status": "approved",
       "type": "guide",
       "query": "Генератор на случайни числа (RNG): как казино игрите гарантират случайност",
       "keywords_or_terms": "генератор на случайни числа, rng казино, случайни числа слот, честна игра казино",
