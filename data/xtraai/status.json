@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-25T13:03:33Z",
+  "generated_utc": "2026-11-26T07:53:05Z",
   "buffer": {
     "count": 16,
     "target": 3,
@@ -8,8 +8,8 @@
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 16,
-    "approved": 0,
+    "drafted": 9,
+    "approved": 7,
     "posted": 10,
     "failed": 0
   },
@@ -161,7 +161,7 @@
     },
     {
       "id": "xa-0006",
-      "status": "drafted",
+      "status": "approved",
       "type": "new-page",
       "query": "/saveti/kakvo-e-chatbot/",
       "keywords_or_terms": "чатбот; чатбот значение; какво е чатбот; ai чатбот за сайт",
@@ -179,12 +179,18 @@
         "band": "Good",
         "winnable": true
       },
-      "verify_flags": null,
-      "verify_samples": []
+      "verify_flags": 9,
+      "verify_samples": [
+        "[VERIFY: Чл. 50, ал. 1 от Регламента за AI: доставчиците осигуряват AI системите, предназначени да взаимодействат пряко с физически лица, да са проектирани така",
+        "[VERIFY: Регламентът се прилага от 2 август 2026 г.; глава IV, в която е чл. 50, не е сред изключенията с други дати — https://ai-act-service-desk.ec.europa.eu/",
+        "[VERIFY: Meta препоръчва потребителите да бъдат информирани, когато общуват с автоматизиран чат, дори където това не е законово задължително — https://developer",
+        "[VERIFY: Чл. 50, ал. 1 от Регламента за AI … https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-50]",
+        "[VERIFY: Регламентът се прилага от 2 август 2026 г.; глава IV … https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-113]"
+      ]
     },
     {
       "id": "xa-0007",
-      "status": "drafted",
+      "status": "approved",
       "type": "new-page",
       "query": "/saveti/kakvo-e-izkustven-intelekt/",
       "keywords_or_terms": "какво е изкуствен интелект; как да използваме изкуствен интелект; изкуствен интелект в бизнеса",
@@ -202,8 +208,14 @@
         "band": "Good",
         "winnable": true
       },
-      "verify_flags": null,
-      "verify_samples": []
+      "verify_flags": 14,
+      "verify_samples": [
+        "[VERIFY: … — URL]",
+        "[VERIFY: Изкуственият интелект може да бъде дефиниран като способността на една машина да демонстрира способности, присъщи за хората (да разсъждава, да се учи, ",
+        "[VERIFY: Услугите, базирани на големи езикови модели (LLM), могат да представят неточна информация като фактическа — https://support.google.com/gemini/answer/13",
+        "[VERIFY: Не въвеждайте поверителна информация, която не бихте искали да е видима за проверяващи лица или да се използва от Google с цел подобряване на услугите ",
+        "[VERIFY: Услугите, базирани на големи езикови модели (LLM), могат да представят неточна информация като фактическа — https://support.google.com/gemini/answer/13"
+      ]
     },
     {
       "id": "xa-0008",
@@ -230,7 +242,7 @@
     },
     {
       "id": "xa-0009",
-      "status": "drafted",
+      "status": "approved",
       "type": "new-page",
       "query": "/saveti/obsluzhvane-na-klienti/",
       "keywords_or_terms": "обслужване на клиенти; обслужване на клиенти в малкия бизнес; бърз отговор на запитвания",
@@ -248,8 +260,14 @@
         "band": "Good",
         "winnable": true
       },
-      "verify_flags": null,
-      "verify_samples": []
+      "verify_flags": 7,
+      "verify_samples": [
+        "[VERIFY: WhatsApp Business away messages respond automatically to messages received outside business hours and let customers know when the business will be back",
+        "[VERIFY: WhatsApp Business Quick Replies are shortcuts for frequently sent messages to respond to common questions in a few taps: https://whatsappbusiness.com/p",
+        "[VERIFY: if a reply is approved, it is publicly posted under the customer's review and appears as the business's reply: https://support.google.com/business/answ",
+        "[VERIFY]",
+        "[VERIFY]"
+      ]
     },
     {
       "id": "xa-0010",
@@ -276,7 +294,7 @@
     },
     {
       "id": "xa-0011",
-      "status": "drafted",
+      "status": "approved",
       "type": "new-page",
       "query": "/saveti/kak-da-napravite-onlain-magazin/",
       "keywords_or_terms": "как да си направя онлайн магазин; как се прави онлайн магазин",
@@ -294,12 +312,18 @@
         "band": "Good",
         "winnable": true
       },
-      "verify_flags": null,
-      "verify_samples": []
+      "verify_flags": 10,
+      "verify_samples": [
+        "[VERIFY: e-shops accepting payments that require a fiscal receipt submit information to the NRA via its e-services portal with КЕП before starting sales, regard",
+        "[VERIFY: with full withdrawal information given, the customer has 14 days to withdraw without penalty or reason; for goods, 14 days after delivery — https://eur",
+        "[VERIFY: before concluding a contract the trader must give the customer, clearly and comprehensibly: identity, postal and email address, main characteristics of",
+        "[VERIFY: F1 — https://nra.bg/wps/portal/nra/fiskalni-ustroystva-supto-i-e-magazini/page.turgovia-v-internet-i-e-magazini/page-Iziskvania-kum-e-turgovciete]",
+        "[VERIFY: F2 — https://europa.eu/youreurope/business/selling-in-eu/selling-goods-services/ecommerce-distance-selling/index_bg.htm]"
+      ]
     },
     {
       "id": "xa-0012",
-      "status": "drafted",
+      "status": "approved",
       "type": "new-page",
       "query": "/saveti/optimizacia-za-ai/",
       "keywords_or_terms": "оптимизация за ai; geo оптимизация; ai оптимизация за google; търсене с ai; оптимизация за chatgpt",
@@ -317,8 +341,14 @@
         "band": "Good",
         "winnable": true
       },
-      "verify_flags": null,
-      "verify_samples": []
+      "verify_flags": 13,
+      "verify_samples": [
+        "[VERIFY]",
+        "[VERIFY: ChatGPT can search the web to answer questions with current information and links to relevant sources; responses that use web search may include citati",
+        "[VERIFY: To make a website eligible for inclusion, allow OAI-Searchbot to crawl the site and confirm that the website host or content delivery network allows tr",
+        "[VERIFY: a page must be indexed and eligible to be shown in Google Search with a snippet — https://developers.google.com/search/docs/appearance/ai-features]",
+        "[VERIFY: The best practices for SEO remain relevant for AI features in Google Search ... There are no additional requirements to appear in [these features]"
+      ]
     },
     {
       "id": "xa-0013",
@@ -508,7 +538,7 @@
     },
     {
       "id": "xa-0021",
-      "status": "drafted",
+      "status": "approved",
       "type": "new-page",
       "query": "/saveti/kakvo-e-kpi/",
       "keywords_or_terms": "kpi; ключови показатели за ефективност",
@@ -526,8 +556,13 @@
         "band": "Strong",
         "winnable": true
       },
-      "verify_flags": null,
-      "verify_samples": []
+      "verify_flags": 4,
+      "verify_samples": [
+        "[VERIFY]",
+        "[VERIFY: KPI = visual cue for progress toward a measurable goal — https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-kpi]",
+        "[VERIFY: cost per conversion = how much, on average, each conversion cost — https://support.google.com/google-ads/answer/6270625?hl=en]",
+        "[VERIFY: key event = action particularly important to the success of the business; any event can become one — https://support.google.com/analytics/answer/926756"
+      ]
     },
     {
       "id": "xa-0022",
@@ -560,7 +595,7 @@
     },
     {
       "id": "xa-0023",
-      "status": "drafted",
+      "status": "approved",
       "type": "new-page",
       "query": "/saveti/imeyl-adres-za-firmata/",
       "keywords_or_terms": "имейл адрес; създаване на имейл адрес",
@@ -578,8 +613,12 @@
         "band": "Strong",
         "winnable": true
       },
-      "verify_flags": null,
-      "verify_samples": []
+      "verify_flags": 3,
+      "verify_samples": [
+        "[VERIFY]",
+        "[VERIFY: at least 12 characters; unique; different for important accounts — https://support.google.com/accounts/answer/32040?hl=bg]",
+        "[VERIFY: extra layer if password stolen; second step at sign-in — https://support.google.com/accounts/answer/185839?hl=bg]"
+      ]
     },
     {
       "id": "xa-0024",

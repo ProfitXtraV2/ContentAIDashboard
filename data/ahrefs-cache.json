@@ -2615,6 +2615,16 @@
 "volume": 0
 }
 },
+"bg|биг бас бонанза": {
+"fetched": "2026-11-26",
+"row": {
+"cpc": null,
+"difficulty": null,
+"intents": {},
+"keyword": "биг бас бонанза",
+"volume": 0
+}
+},
 "bg|бинго правила": {
 "fetched": "2026-11-17",
 "row": {
@@ -2691,6 +2701,10 @@
 },
 "bg|бонус за втори депозит": {
 "fetched": "2026-10-26",
+"row": {}
+},
+"bg|бонус купуване": {
+"fetched": "2026-11-26",
 "row": {}
 },
 "bg|бонус оборот": {
@@ -2818,6 +2832,10 @@
 "volume": 150
 },
 "trend": "down"
+},
+"bg|гонзо куест": {
+"fetched": "2026-11-26",
+"row": {}
 },
 "bg|дама игра правила": {
 "fetched": "2026-10-28",
@@ -3171,6 +3189,24 @@
 "volume": 70
 },
 "trend": "down"
+},
+"bg|казино на живо": {
+"fetched": "2026-11-26",
+"row": {
+"cpc": 60,
+"difficulty": 78,
+"intents": {
+"branded": false,
+"commercial": true,
+"informational": true,
+"local": false,
+"navigational": false,
+"transactional": true
+},
+"keyword": "казино на живо",
+"volume": 300
+},
+"trend": "flat"
 },
 "bg|казино приложение": {
 "fetched": "2026-10-26",
@@ -3810,6 +3846,16 @@
 },
 "trend": "down"
 },
+"bg|нетент": {
+"fetched": "2026-11-26",
+"row": {
+"cpc": null,
+"difficulty": null,
+"intents": {},
+"keyword": "нетент",
+"volume": 0
+}
+},
 "bg|нетент казино": {
 "fetched": "2026-11-24",
 "row": {
@@ -3871,6 +3917,28 @@
 "volume": 10
 },
 "trend": "down"
+},
+"bg|плинко": {
+"fetched": "2026-11-26",
+"row": {
+"cpc": 35,
+"difficulty": null,
+"intents": {
+"branded": true,
+"commercial": true,
+"informational": true,
+"local": false,
+"navigational": false,
+"transactional": false
+},
+"keyword": "плинко",
+"volume": 100
+},
+"trend": "down"
+},
+"bg|плинко как се играе": {
+"fetched": "2026-11-26",
+"row": {}
 },
 "bg|покер за начинаещи": {
 "fetched": "2026-10-19",
@@ -4067,6 +4135,24 @@
 },
 "trend": "up"
 },
+"bg|ротативки онлайн": {
+"fetched": "2026-11-26",
+"row": {
+"cpc": 110,
+"difficulty": 50,
+"intents": {
+"branded": false,
+"commercial": true,
+"informational": true,
+"local": false,
+"navigational": false,
+"transactional": true
+},
+"keyword": "ротативки онлайн",
+"volume": 200
+},
+"trend": "flat"
+},
 "bg|рулетка стратегия": {
 "fetched": "2026-10-24",
 "row": {
@@ -4245,6 +4331,10 @@
 "fetched": "2026-10-26",
 "row": {}
 },
+"bg|уайлд симбол": {
+"fetched": "2026-11-26",
+"row": {}
+},
 "bg|уайлд символ": {
 "fetched": "2026-10-24",
 "row": {}
@@ -4258,6 +4348,10 @@
 "keyword": "хазарт зависимост",
 "volume": 0
 }
+},
+"bg|хакса слот": {
+"fetched": "2026-11-26",
+"row": {}
 },
 "bg|хибридни слотове": {
 "fetched": "2026-10-17",
