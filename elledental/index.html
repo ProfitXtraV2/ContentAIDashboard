@@ -186,7 +186,7 @@ const LABELS = {
 const TIPS = {
   volume: "Vol — monthly search volume (Ahrefs): how many people search this keyword per month. Higher = more demand / potential traffic.",
   kd: "KD — Keyword Difficulty 0–100 (Ahrefs): how hard it is to rank #1. Higher = more competition.",
-  opportunity: "Opportunity — our combined score from Vol × (1−KD): high volume + achievable difficulty = Strong. In short: is it worth writing?",
+  opportunity: "Opportunity — up to 60 points for volume (full at 1200+) plus up to 40 for low KD (full at KD 0). Strong 70+, Good 45+, Moderate 25+. Hover a score to see its breakdown. In short: is it worth writing?",
   gemini: "Gemini — cross-model AI-detection score. Green ✓ = ≥80% human-likeness (passed); amber = below the 80 target; '— not run' = not yet checked.",
   checked: "Checked — how the metrics were obtained: ✓ Ahrefs (real API data), web (fallback estimate), or unchecked.",
   intent: "Intent — search intent (Ahrefs): informational / commercial / transactional / navigational.",
@@ -420,7 +420,7 @@ async function load() {
     const body = rows.map(r => '<tr>' + cols.map(([c]) => {
       if (c === 'links') return `<td>${articleLinks(r)}</td>`;
       if (c === 'gemini') return `<td>${geminiBadge(r.gemini)}</td>`;
-      if (c === 'opportunity') return `<td>${opChip(r.opportunity)}</td>`;
+      if (c === 'opportunity') return `<td>${opChip(r.opportunity, r)}</td>`;
       let v = r[c] || '';
       if (c === 'status') v = `<span class="st st-${v}">${v}</span>`;
       const cls = (c === 'volume' || c === 'kd') ? ' class="num"' : '';
@@ -429,9 +429,30 @@ async function load() {
     return `<table><thead><tr>${cols.map(([c, h]) => `<th${TIPS[c] ? ' title="' + TIPS[c] + '"' : ''}>${h}</th>`).join('')}</tr></thead><tbody>${body}</tbody></table>`;
   }
 
-  function opChip(o) {
-    if (!o) return '<span class="op op-Weak">n/a</span>';
-    return `<span class="op op-${o.band}">${o.band} · ${o.score}</span>`;
+  // Tooltip: how the score is built (scripts/build_dashboard.py opportunity()) and why it is not higher.
+  function opWhy(o, r) {
+    const v = parseFloat(String(r && r.volume != null ? r.volume : '').replace(/[^0-9.]/g, ''));
+    const k = parseFloat(String(r && r.kd != null ? r.kd : '').replace(/[^0-9.]/g, ''));
+    if (isNaN(v) || isNaN(k)) return 'No score: volume or KD is missing.';
+    const vp = Math.min(60, v / 20), kp = Math.max(0, 40 - k * 0.4);
+    const lines = [
+      `Score ${o.score} = volume ${v} → ${Math.round(vp)}/60 points + KD ${k} → ${Math.round(kp)}/40 points.`,
+      'Volume earns full points at 1200+ searches; KD earns full points at 0.',
+      'Bands: Strong 70+, Good 45–69, Moderate 25–44, Weak under 25.',
+    ];
+    if (o.band === 'Pillar') lines.push(`Pillar: KD ${k} is above what the site can win today, so it is kept for later.`);
+    else if (o.score < 70) {
+      const gap = [];
+      if (vp < 60) gap.push(`volume is ${v} (Strong would need about ${Math.ceil((70 - kp) * 20)}+ searches at this KD)`);
+      if (kp < 40) gap.push(`KD ${k} costs ${Math.round(40 - kp)} points`);
+      lines.push('Not higher because ' + gap.join(' and ') + '.');
+    }
+    return lines.join('\n');
+  }
+  function opChip(o, r) {
+    if (!o) return '<span class="op op-Weak" title="No score: volume or KD is missing.">n/a</span>';
+    const t = opWhy(o, r).replace(/"/g, '&quot;');
+    return `<span class="op op-${o.band}" title="${t}" style="cursor:help">${o.band} · ${o.score}</span>`;
   }
   function chkBadge(v) {
     v = (v || 'none').toLowerCase();
@@ -439,7 +460,15 @@ async function load() {
     if (v === 'web') return '<span class="chk chk-web">web</span>';
     return '<span class="chk chk-none">unchecked</span>';
   }
-  const byOpp = (a, b) => (b.opportunity ? b.opportunity.score : -1) - (a.opportunity ? a.opportunity.score : -1);
+  // Owner 2026-11-26: list by search volume (highest first), then KD (lowest first), same order as
+  // the writer picks them; rows without data last, then by opportunity score.
+  const num = (x) => { const n = parseFloat(String(x == null ? '' : x).replace(/[^0-9.]/g, '')); return isNaN(n) ? null : n; };
+  const byOpp = (a, b) => {
+    const va = num(a.volume), vb = num(b.volume), ka = num(a.kd), kb = num(b.kd);
+    return (vb == null ? -1 : vb) - (va == null ? -1 : va)
+      || (ka == null ? Infinity : ka) - (kb == null ? Infinity : kb)
+      || (b.opportunity ? b.opportunity.score : -1) - (a.opportunity ? a.opportunity.score : -1);
+  };
 
   function renderBacklog(rows) {
     if (!rows.length) return '<div class="empty">No pending backlog keywords — add topics to topic-backlog.md.</div>';
@@ -447,7 +476,7 @@ async function load() {
       ['volume','Vol'],['kd','KD'],['opportunity','Opportunity'],['checked','Checked'],
       ['ahrefs_note','Ahrefs verdict / suggestion'],['status','Status']];
     const body = [...rows].sort(byOpp).map(r => '<tr>' + cols.map(([c]) => {
-      if (c === 'opportunity') return `<td>${opChip(r.opportunity)}</td>`;
+      if (c === 'opportunity') return `<td>${opChip(r.opportunity, r)}</td>`;
       if (c === 'checked') return `<td>${chkBadge(r.checked)}</td>`;
       if (c === 'ahrefs_note') return `<td class="sugg">${r.ahrefs_note || ''}</td>`;
       if (c === 'status') return `<td><span class="st st-${r.status === 'failed' ? 'failed' : 'in-progress'}">${r.status || 'open'}</span></td>`;
@@ -463,7 +492,7 @@ async function load() {
       ['volume','Vol'],['kd','KD'],['opportunity','Opportunity'],['trend','Trend'],
       ['checked','Checked'],['suggestion','Rating / suggestion'],['status','Status']];
     const body = [...rows].sort(byOpp).map(r => '<tr>' + cols.map(([c]) => {
-      if (c === 'opportunity') return `<td>${opChip(r.opportunity)}</td>`;
+      if (c === 'opportunity') return `<td>${opChip(r.opportunity, r)}</td>`;
       if (c === 'checked') return `<td>${chkBadge(r.checked)}</td>`;
       if (c === 'suggestion') return `<td class="sugg">${r.suggestion || r.source_rationale || ''}</td>`;
       const cls = (c === 'volume' || c === 'kd') ? ' class="num"' : '';
