@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-26T17:41:38Z",
+  "generated_utc": "2026-11-26T17:42:13Z",
   "buffer": {
     "count": 215,
     "target": 10,
@@ -8,8 +8,8 @@
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 211,
-    "approved": 4,
+    "drafted": 210,
+    "approved": 5,
     "posted": 129,
     "failed": 1
   },
@@ -1113,7 +1113,7 @@
     },
     {
       "id": "vk-0052",
-      "status": "drafted",
+      "status": "approved",
       "type": "guide",
       "query": "Каскадни/падащи символи (tumble/cascade): как работят падащите печалби",
       "keywords_or_terms": "каскадни символи, tumble, падащи символи, cascade слот, каскади",
