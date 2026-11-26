@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-26T17:42:13Z",
+  "generated_utc": "2026-11-26T17:42:40Z",
   "buffer": {
     "count": 215,
     "target": 10,
@@ -8,8 +8,8 @@
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 210,
-    "approved": 5,
+    "drafted": 208,
+    "approved": 7,
     "posted": 129,
     "failed": 1
   },
@@ -1170,7 +1170,7 @@
     },
     {
       "id": "vk-0055",
-      "status": "drafted",
+      "status": "approved",
       "type": "guide",
       "query": "Wild символи в ротативките: видове и как работят",
       "keywords_or_terms": "wild символи, wild ротативки, разширяващ се wild, залепващ wild, вървящ wild",
@@ -1265,7 +1265,7 @@
     },
     {
       "id": "vk-0060",
-      "status": "drafted",
+      "status": "approved",
       "type": "guide",
       "query": "Клъстърни печалби (cluster pays): как се печели без линии",
       "keywords_or_terms": "клъстърни печалби, cluster pays, клъстър слот, печалба без линии",
