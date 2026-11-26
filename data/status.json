@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-26T17:44:11Z",
+  "generated_utc": "2026-11-26T17:44:40Z",
   "buffer": {
     "count": 215,
     "target": 10,
@@ -8,8 +8,8 @@
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 205,
-    "approved": 10,
+    "drafted": 204,
+    "approved": 11,
     "posted": 129,
     "failed": 1
   },
@@ -3413,7 +3413,7 @@
     },
     {
       "id": "vk-0168",
-      "status": "drafted",
+      "status": "approved",
       "type": "guide",
       "query": "Как да изтеглиш печалба от онлайн казино: верификация (KYC), лимити и срокове",
       "keywords_or_terms": "теглене на пари казино, верификация казино, kyc казино, документи казино",
