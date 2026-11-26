@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-26T17:39:55Z",
+  "generated_utc": "2026-11-26T17:40:29Z",
   "buffer": {
     "count": 215,
     "target": 10,
@@ -8,8 +8,8 @@
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 213,
-    "approved": 2,
+    "drafted": 212,
+    "approved": 3,
     "posted": 129,
     "failed": 1
   },
@@ -1208,7 +1208,7 @@
     },
     {
       "id": "vk-0057",
-      "status": "drafted",
+      "status": "approved",
       "type": "guide",
       "query": "Множители в ротативките: как работят и кога умножават",
       "keywords_or_terms": "множители слот, мултипликатори, множител в безплатни завъртания, множител-wild, нарастващ множител, случаен множител",
