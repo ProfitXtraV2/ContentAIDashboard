@@ -2519,6 +2519,24 @@
 },
 "trend": "down"
 },
+"bg|амюзнет": {
+"fetched": "2026-11-27",
+"row": {
+"cpc": 8,
+"difficulty": 0,
+"intents": {
+"branded": true,
+"commercial": true,
+"informational": true,
+"local": false,
+"navigational": false,
+"transactional": false
+},
+"keyword": "амюзнет",
+"volume": 80
+},
+"trend": "down"
+},
 "bg|бакара": {
 "fetched": "2026-11-16",
 "row": {
@@ -2624,6 +2642,10 @@
 "keyword": "биг бас бонанза",
 "volume": 0
 }
+},
+"bg|бинго онлайн правила": {
+"fetched": "2026-11-27",
+"row": {}
 },
 "bg|бинго правила": {
 "fetched": "2026-11-17",
@@ -3047,6 +3069,10 @@
 "volume": 50
 },
 "trend": "down"
+},
+"bg|егт слот игри": {
+"fetched": "2026-11-27",
+"row": {}
 },
 "bg|живо казино": {
 "fetched": "2026-11-16",

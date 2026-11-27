@@ -1,13 +1,15 @@
 {
-  "state": "running",
+  "state": "idle",
   "run_started_utc": "2026-11-27T07:14:10Z",
-  "run_finished_utc": null,
-  "articles_written": null,
-  "prs_opened": [],
+  "run_finished_utc": "2026-11-27T07:36:34Z",
+  "articles_written": 1,
+  "prs_opened": [
+    415
+  ],
   "run_url": "https://claude.ai/code/session_01AwuYFUPp33yarxeWScYuVs",
-  "note": "daily run 2026-11-27 — writing vk guide Ювентус (11000/kd1 P0 backlog)",
+  "note": "daily run 2026-11-27 — throttled MAX_PER_RUN=1. Reconcile clean on entry (0 in-progress/HANDOFF/active-CLAIMED). Monthly SEO review NOT due (marker 2026-11 == current). WROTE 1 NEW guide vk-0346 „Ювентус — история, трофеи, стадион и легенди на клуба“ (PR #415) — top open P0 backlog (owner-approved 2026-10-28 European clubs & stars batch → Футбол hub). Cluster ювентус 11000/kd1 informational WIN. Angle = „Старата дама“: 36 титли в Италия (рекорд) с европейски таван — само 2 Купи на шампионите (1985 Ливърпул/Хейзел, 1996 Аякс) + дълга сянка на загубени финали; Анели/Фиат от 1923; Калчополи 2006 + връщане от Серия Б; собствен стадион от 2011 (41 507). Guides-only ✓ (0 operator/НАП/affiliate; 0 standings/results/fixtures/transfers/odds/predictions). Dedup vs queue(0 ювентус)+folder+live sitemap clean. Facts EN Wikipedia (Juventus FC) + web cross-check. Gate PASS 94/100 0-crit (byline Георги Тодоров; бранд Всички Казина ×3; 0 em/en-dash; 6 approved internal links incl. Реал Мадрид sibling; verbatim 18+ RG + 1-авг-2026 affiliate footer; 0 operators→0 affiliate). GEMINI ONLINE: Step-7 TEXT pass 1 „Likely human-written 85%“ → HL 85 ≥80 = PASS on first draft (0 humaniser passes, keep-best = initial = human 85). Step-8 img:2 — hand-authored infographic (10 числа 1:1 vs 05b, bianconeri black-white, Chromium clean) + decorative hero (black-white stripes over stadium silhouette, webp 16KB via ImageMagick since Pillow broken; 0 text/logos/crests/people/faces); Gemini image review v1 100/100 PASS 0-integrity. ~1050 думи, 0 surviving flags. AHREFS ONLINE (~111,627 units, reset 12-15); light discovery 8 seeds → 0 new candidates worth adding (бакара 60/амюзнет 80 thin; кено/скреч 0-vol; rest no data; market saturated); bank 4 candidates intact. Board: queue vk-0346 drafted (PR #415, img:2 100, gemini human 85); backlog Ювентус row open→written; dashboard rebuilt buffer 214/10; content refs fetched. PR #415 open for owner Step-6 review. NO flags resolved, nothing posted/merged/fabricated.",
   "progress": {
-    "phase": "writing",
+    "phase": "done",
     "article_index": 1,
     "article_total": 1,
     "article_slug": "2026-11-27-yuventus-istoriya-trofei",
@@ -23,7 +25,7 @@
       "Verification",
       "PR"
     ],
-    "stage_index": 6,
-    "stage": "Light re-check"
+    "stage_index": null,
+    "stage": null
   }
 }
