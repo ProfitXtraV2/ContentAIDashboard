@@ -1,14 +1,14 @@
 {
-  "state": "running",
+  "state": "idle",
   "run_started_utc": "2026-11-27T05:17:38Z",
-  "run_finished_utc": null,
-  "articles_written": 0,
-  "prs_opened": [],
+  "run_finished_utc": "2026-11-27T05:57:22Z",
+  "articles_written": 1,
+  "prs_opened": [414],
   "run_url": null,
-  "note": "scheduled daily run 2026-11-27: /seo-optimizacia/ (new-page service, vol 600, kd 29)",
+  "note": "scheduled daily run 2026-11-27: drafted /seo-optimizacia/ (new-page service, vol 600, kd 29) — Brand Gate 98/100, Gemini human 100, PR #414 (awaiting porting + owner approval)",
   "progress": {
-    "phase": "Brief",
-    "stage": "Step 0 — brief + inventory",
-    "stage_index": 0
+    "phase": "idle",
+    "stage": null,
+    "stage_index": null
   }
 }

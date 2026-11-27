@@ -1,14 +1,14 @@
 {
-  "generated_utc": "2026-11-26T20:37:29Z",
+  "generated_utc": "2026-11-27T05:57:28Z",
   "buffer": {
-    "count": 15,
+    "count": 16,
     "target": 3,
     "deficit": 0,
     "ok": true
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 8,
+    "drafted": 9,
     "approved": 7,
     "posted": 11,
     "failed": 0
@@ -694,6 +694,29 @@
       },
       "verify_flags": null,
       "verify_samples": []
+    },
+    {
+      "id": "xa-0027",
+      "status": "drafted",
+      "type": "new-page",
+      "query": "/seo-optimizacia/",
+      "keywords_or_terms": "seo оптимизация; seo услуги; seo оптимизация на сайт; техническо seo",
+      "volume": "600",
+      "kd": "29",
+      "source": "backlog",
+      "drafted_date": "2026-11-27",
+      "posted_date": "",
+      "folder": "2026-11-27-seo-optimizacia",
+      "pr": "#414",
+      "gemini": "human 100",
+      "notes": "scheduled run 2026-11-27",
+      "opportunity": {
+        "score": 58,
+        "band": "Good",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
     }
   ],
   "backlog": [
@@ -771,8 +794,8 @@
       "intent": "commercial",
       "checked": "ahrefs",
       "ahrefs_note": "2026-11-15",
-      "status": "open",
-      "notes": "Full SEO: technical, on-page, links.",
+      "status": "written",
+      "notes": "Full SEO: technical, on-page, links. Drafted 2026-11-27, PR #414, awaiting porting + owner approval.",
       "opportunity": {
         "score": 58,
         "band": "Good",
