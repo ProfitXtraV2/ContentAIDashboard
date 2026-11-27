@@ -1,14 +1,14 @@
 {
-  "state": "idle",
-  "run_started_utc": null,
+  "state": "running",
+  "run_started_utc": "2026-11-27T05:17:38Z",
   "run_finished_utc": null,
-  "articles_written": null,
+  "articles_written": 0,
   "prs_opened": [],
   "run_url": null,
-  "note": "scheduled daily since 2026-11-26 (routine \"Xtra AI Daily Content Autopilot\", 05:13 UTC ≈ 07:13 Sofia, 1 article per run)",
+  "note": "scheduled daily run 2026-11-27: /seo-optimizacia/ (new-page service, vol 600, kd 29)",
   "progress": {
-    "phase": "idle",
-    "stage": null,
-    "stage_index": null
+    "phase": "Brief",
+    "stage": "Step 0 — brief + inventory",
+    "stage_index": 0
   }
 }
