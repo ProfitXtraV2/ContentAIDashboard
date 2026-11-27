@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-11-27T05:57:28Z",
+  "generated_utc": "2026-11-27T09:43:27Z",
   "buffer": {
-    "count": 16,
+    "count": 15,
     "target": 3,
     "deficit": 0,
     "ok": true
@@ -9,8 +9,8 @@
   "counts": {
     "in-progress": 0,
     "drafted": 9,
-    "approved": 7,
-    "posted": 11,
+    "approved": 6,
+    "posted": 12,
     "failed": 0
   },
   "rows": [
@@ -544,7 +544,7 @@
     },
     {
       "id": "xa-0021",
-      "status": "approved",
+      "status": "posted",
       "type": "new-page",
       "query": "/saveti/kakvo-e-kpi/",
       "keywords_or_terms": "kpi; ключови показатели за ефективност",
@@ -552,7 +552,7 @@
       "kd": "0",
       "source": "backlog",
       "drafted_date": "2026-11-22",
-      "posted_date": "",
+      "posted_date": "2026-11-27",
       "folder": "2026-11-22-kakvo-e-kpi",
       "pr": "#391",
       "gemini": "human 100",
