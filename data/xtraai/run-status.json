@@ -1,14 +1,14 @@
 {
-  "state": "idle",
-  "run_started_utc": "2026-11-27T05:17:38Z",
-  "run_finished_utc": "2026-11-27T05:57:22Z",
-  "articles_written": 1,
-  "prs_opened": [414],
+  "state": "running",
+  "run_started_utc": "2026-11-28T05:17:50Z",
+  "run_finished_utc": null,
+  "articles_written": 0,
+  "prs_opened": [],
   "run_url": null,
-  "note": "scheduled daily run 2026-11-27: drafted /seo-optimizacia/ (new-page service, vol 600, kd 29) — Brand Gate 98/100, Gemini human 100, PR #414 (awaiting porting + owner approval)",
+  "note": "scheduled daily run 2026-11-28: selected /reklama/ (new-page service, реклама в гугъл, vol 400, kd 0) — highest-volume eligible open backlog row not in queue; drafting",
   "progress": {
-    "phase": "idle",
-    "stage": null,
-    "stage_index": null
+    "phase": "writing",
+    "stage": "Brief",
+    "stage_index": 0
   }
 }
