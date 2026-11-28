@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-11-28T06:08:19Z",
+  "generated_utc": "2026-11-28T11:53:53Z",
   "buffer": {
-    "count": 16,
+    "count": 15,
     "target": 3,
     "deficit": 0,
     "ok": true
@@ -9,8 +9,8 @@
   "counts": {
     "in-progress": 0,
     "drafted": 10,
-    "approved": 6,
-    "posted": 12,
+    "approved": 5,
+    "posted": 13,
     "failed": 0
   },
   "rows": [
@@ -161,7 +161,7 @@
     },
     {
       "id": "xa-0006",
-      "status": "approved",
+      "status": "posted",
       "type": "new-page",
       "query": "/saveti/kakvo-e-chatbot/",
       "keywords_or_terms": "чатбот; чатбот значение; какво е чатбот; ai чатбот за сайт",
@@ -169,7 +169,7 @@
       "kd": "0",
       "source": "backlog",
       "drafted_date": "2026-11-22",
-      "posted_date": "",
+      "posted_date": "2026-11-28",
       "folder": "2026-11-22-kakvo-e-chatbot",
       "pr": "#380",
       "gemini": "human 100",
