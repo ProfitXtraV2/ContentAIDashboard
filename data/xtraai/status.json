@@ -1,14 +1,14 @@
 {
-  "generated_utc": "2026-11-27T09:43:27Z",
+  "generated_utc": "2026-11-28T06:08:19Z",
   "buffer": {
-    "count": 15,
+    "count": 16,
     "target": 3,
     "deficit": 0,
     "ok": true
   },
   "counts": {
     "in-progress": 0,
-    "drafted": 9,
+    "drafted": 10,
     "approved": 6,
     "posted": 12,
     "failed": 0
@@ -717,6 +717,29 @@
       },
       "verify_flags": null,
       "verify_samples": []
+    },
+    {
+      "id": "xa-0028",
+      "status": "drafted",
+      "type": "new-page",
+      "query": "/reklama/",
+      "keywords_or_terms": "реклама в гугъл; гугъл реклама; google реклама; google ads реклама; онлайн реклама; ppc реклама; маркетинг специалист",
+      "volume": "400",
+      "kd": "0",
+      "source": "backlog",
+      "drafted_date": "2026-11-28",
+      "posted_date": "",
+      "folder": "2026-11-28-reklama",
+      "pr": "#416",
+      "gemini": "human 95",
+      "notes": "scheduled run 2026-11-28",
+      "opportunity": {
+        "score": 60,
+        "band": "Good",
+        "winnable": true
+      },
+      "verify_flags": null,
+      "verify_samples": []
     }
   ],
   "backlog": [
@@ -776,8 +799,8 @@
       "intent": "commercial",
       "checked": "ahrefs",
       "ahrefs_note": "2026-11-15",
-      "status": "open",
-      "notes": "Marketing specialist: Google + Facebook/Instagram ads.",
+      "status": "written",
+      "notes": "Marketing specialist: Google + Facebook/Instagram ads. Drafted 2026-11-28, PR #416, awaiting porting + owner approval.",
       "opportunity": {
         "score": 60,
         "band": "Good",
