@@ -1,13 +1,15 @@
 {
-  "state": "running",
+  "state": "idle",
   "run_started_utc": "2026-11-28T07:16:40Z",
-  "run_finished_utc": null,
-  "articles_written": null,
-  "prs_opened": [],
+  "run_finished_utc": "2026-11-28T07:39:10Z",
+  "articles_written": 1,
+  "prs_opened": [
+    417
+  ],
   "run_url": "https://claude.ai/code/routines/trig_019cfW1QpXykZkwG8XrotCtQ",
-  "note": "daily run 2026-11-28 — MAX_PER_RUN=1. vk-0347 Milan (Милан) club profile through Brand Gate PASS 95/100 + Step-7 Gemini PASS (human 85, first draft, 0 humaniser passes). Now Step-8 images.",
+  "note": "daily run 2026-11-28 — throttled MAX_PER_RUN=1. Entry reconcile clean (0 in-progress/HANDOFF/CLAIMED; local main had stale XtraAI commits, reset to origin/main). Monthly SEO review NOT due (marker 2026-11 == current). WROTE 1 NEW guide vk-0347 Milan (Милан — история, трофеи, стадион и легенди) — top open P0 backlog (owner-approved 2026-10-28 European clubs & stars batch -> Футбол hub), PR #417. Evergreen италиански клубен профил, guides-only (0 operator/НАП/affiliate; 0 current-season stats/standings/results/transfers/odds/predictions). Angle = италианският гранд на Европа: 7 европейски купи (1963,1969,1989,1990,1994,2003,2007), рекорд за Италия и втори на континента след Реал Мадрид (15); английското име Milan; споделеният Сан Сиро/Дерби дела Мадона; холандско трио + Берлускони-ерата (1986-2017) + RedBird (2022); едноклубните легенди Малдини/Барези, Ривера (1969 Златна топка), Уеа (1995). Dedup vs queue(0 милан)+folder+live sitemap(0 milan) clean. Facts EN Wikipedia (AC Milan, San Siro). Gate PASS 95/100 0-crit (byline Георги Тодоров; бранд Всички Казина x3; 0 em/en-dash body; numbers diffed 02->05b identical; verbatim 18+ RG + 1-авг-2026 affiliate footer; 0 operators->0 affiliate). Gemini Step-7 ONLINE: pass 1 Likely human-written 85% -> HL 85 >=80 = PASS on first draft (0 humaniser passes, keep-best = initial); gemini=human 85. Step-8 img:2 — hand-authored infographic (10 numbers 1:1 vs 05b, Chromium render clean) + decorative hero webp 13.4KB (rossoneri stripes + stadium silhouette, PNG->WebP via ImageMagick since Pillow broken; 0 text/logos/crests/people/faces); Gemini image review v1 = 100/100 PASS, 0 integrity failures. ~687 words, 0 surviving flags, 3 internal links (HTTP 200). AHREFS ONLINE (~111,381 units remaining, reset 2026-12-15): light refresh — 4 bank candidates confirmed stable (дартс 800/kd0, видео покер онлайн 150, реми 250/kd27, pragmatic play 2400/kd62 Pillar), 0 zero-volume to replace; new seed крупие 500/kd0 = covered contextually across 10 live/table-game articles -> fold-in (anti-cannibalization), not a new pillar; other seeds thin/zero (кено стратегия 0, мартингейл 20, рулетка/блекджек стратегия 20-30, казино бонус код 30). Bank intact at 4 candidates. Board: queue vk-0347 drafted (PR #417, img:2 review 100, gemini human 85); backlog Милан row open->written (34 open rows left, next Интер/Байерн/Манчестър Сити); dashboard rebuilt buffer 213/10; content refs fetched. FEED REGRESSION HELD (unchanged from prior runs): build_feed again reintroduced the FORBIDDEN author bio (Георги Тодоров ТЕСТВА ... казино сайтове ... със собствен бюджет) into published/elektronna-ruletka/ — markets/bg/author.md Tier 3 forbids тества/тестер. Reverted published/ (live feed kept at compliant автор на ревюта ... проверява и оценява bio). vk-0347 is drafted (not approved) -> nothing legitimate needed exposing this run. HUMAN ACTION (repeat): fix the nightly flag+score-fix job that keeps reintroducing the forbidden тества bio on content branches. PR #417 open for owner Step-6 review. NO flags resolved, nothing posted/merged/fabricated.",
   "progress": {
-    "phase": "writing",
+    "phase": "done",
     "article_index": 1,
     "article_total": 1,
     "article_slug": "2026-11-28-milan-istoriya-trofei",
@@ -23,7 +25,7 @@
       "Verification",
       "PR"
     ],
-    "stage_index": 7,
-    "stage": "Images"
+    "stage_index": null,
+    "stage": null
   }
 }
