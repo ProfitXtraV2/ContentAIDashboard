@@ -5,7 +5,7 @@
   "articles_written": null,
   "prs_opened": [],
   "run_url": "https://claude.ai/code/routines/trig_019cfW1QpXykZkwG8XrotCtQ",
-  "note": "daily run 2026-11-28 — throttled MAX_PER_RUN=1. Entry reconcile clean (0 in-progress/HANDOFF/CLAIMED). Monthly SEO review NOT due (marker 2026-11 == current). WRITING 1 NEW guide vk-0347 „Милан — история, трофеи, стадион и легенди на клуба“ (top open P0 backlog). Dedup clean.",
+  "note": "daily run 2026-11-28 — MAX_PER_RUN=1. vk-0347 Milan (Милан) club profile through Brand Gate PASS 95/100 + Step-7 Gemini PASS (human 85, first draft, 0 humaniser passes). Now Step-8 images.",
   "progress": {
     "phase": "writing",
     "article_index": 1,
@@ -23,7 +23,7 @@
       "Verification",
       "PR"
     ],
-    "stage_index": 0,
-    "stage": "Synthesis"
+    "stage_index": 7,
+    "stage": "Images"
   }
 }
